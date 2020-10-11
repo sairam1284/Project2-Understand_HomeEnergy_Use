@@ -1,38 +1,27 @@
-# Project 2- Predicting Energy Consumption of London
+# Project 2- Understanding Energy Consumption of London Homes
 
-### Objective:
-* See how daily weather conditions affect energy demand in the city of London.
+### Objective
+Utilize Web Scraping to obtain relevant weather data.  Incorporate Linear Regression modeling to study the relationship between daily energy usage and weather.  
 
-
-### Key Input Variables:
+### Key Feature Variables:
 * Temperature
-* Humidity
 * Relative Humidity
-* Dew Point
-* Precipitation
+* Wind Speed
 * Day of Week
-* Holiday
+* Type of Neighborhood
 * Time of Day
-* Population
-
-### Key Output Variables:
-* Electricity Usage
-* (If Possible) Natural Gas Usage
-
-### Datasets:
-* Web-scraped historical Data from Weather Underground in London for years 2012-2013
-* Energy Usage from Smart Meters in London- Kaggle
-    * The dataset includes over Million+ rows from many homes in the London Area
-    * Try to get a representative sample from Affluent, Comfortable, and Adversity households
-* (If Possible) Look at affect of Cloud Cover as well
-
-### Key Insights:
-* To what degree do certain weather factors affect energy consumption
-* To what degree do other factors affect energy consumption
-* Bigger Picture: Looking at the expected change in population and global temperature increases, how will this affect the city's energy demand moving
-
+* Approximate # of bedrooms
+* Approximate # of people
 
 ### Target Audience and Key Recommendations:
 * Utility company - better predict what their load will be by looking at the upcoming weather
-* Government - If they want to pursue clean energy, how much and what types of clean energy would be most appropriate. (i.e. if it turns out the highest load is at nighttime, maybe putting in tons of solar without adequate battery storage is not the best idea)  
+* Government - If they want to reduce home energy usage, identifying the main drivers will allow government to attack low-hanging fruit. (i.e. If winter weather and heating are the main factors of energy usage, perhaps investing in better insulation or more efficient heating systems will give more bang for the buck than installing expensive solar panels)
 * Local communities looking for ways to reduce energy load: (i.e. if we see that high temperature increases energy usage, maybe increasing the amount of green cover in areas will reduce energy usage)
+
+### Key conclusions from the analysis:
+* To what degree do certain weather factors affect energy consumption
+  * Temperature shows a strong negative correlation with daily energy consumption suggesting Winter and Heating are the main drivers of home energy usage in London.
+* To what degree do other factors affect energy consumption
+  * The # of bedrooms
+  * The wealth of neighborhood the home is located in
+  * Sunday has significantly higher energy usage
