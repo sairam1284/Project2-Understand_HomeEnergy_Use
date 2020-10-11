@@ -1,0 +1,827 @@
+ITEM,CATEGORIES,REFERENCE,ACORN-A,ACORN-B,ACORN-C,ACORN-D,ACORN-E,ACORN-F,ACORN-G,ACORN-H,ACORN-I,ACORN-J,ACORN-K,ACORN-L,ACORN-M,ACORN-N,ACORN-O,ACORN-P,ACORN-Q
+POPULATION,Age,Age 0-4,77,83,72,100,120,77,97,97,63,119,67,114,113,89,123,138,133
+POPULATION,Age,Age 5-17,117,109,87,69,94,95,102,106,67,95,64,108,116,86,89,136,106
+POPULATION,Age,Age 18-24,64,73,67,107,100,71,83,89,62,104,459,97,96,86,117,109,110
+POPULATION,Age,Age 25-34,52,63,62,197,151,66,90,88,63,132,145,109,96,90,140,120,120
+POPULATION,Age,Age 35-49,102,105,91,124,118,93,102,103,76,111,67,99,98,90,102,103,100
+POPULATION,Age,Age 50-64,124,121,120,72,82,126,109,107,112,90,41,95,96,103,89,78,89
+POPULATION,Age,Aged 65-74,125,120,152,55,61,144,108,104,182,72,29,91,93,125,73,59,76
+POPULATION,Age,Aged 75 plus,112,103,157,49,57,117,98,96,220,66,32,87,96,152,72,56,76
+POPULATION,Geography,England,107,101,103,114,106,75,107,106,102,106,95,93,97,89,97,110,97
+POPULATION,Geography,Northern Ireland,30,95,45,2,49,462,53,104,30,91,56,87,131,67,95,75,43
+POPULATION,Geography,Scotland,93,105,87,47,93,144,54,46,97,53,167,114,121,194,139,31,183
+POPULATION,Geography,Wales,22,73,99,10,46,249,77,84,113,73,98,211,104,150,88,54,45
+POPULATION,Ethnicity,White,98,106,110,83,93,114,94,102,113,103,81,92,106,111,100,80,98
+POPULATION,Ethnicity,Mixed,117,79,55,248,149,27,84,90,38,116,175,73,88,48,104,193,137
+POPULATION,Ethnicity,Asian,107,67,34,102,116,8,212,89,21,71,159,276,55,24,102,154,79
+POPULATION,Ethnicity,Black,48,34,21,215,158,6,71,87,14,76,213,71,69,32,85,389,174
+POPULATION,Ethnicity,Other ethnicity,174,84,47,304,168,18,105,76,30,81,327,86,52,34,99,179,94
+POPULATION,Country of Birth,UK / ROI,95,105,107,75,91,110,98,103,109,100,79,98,105,109,98,88,99
+POPULATION,Country of Birth,EU: Member countries in March 2001,202,85,68,471,166,50,79,70,50,103,233,64,63,46,87,137,75
+POPULATION,Country of Birth,EU: Accession countries April 2001 to March 2011,55,46,39,184,183,34,90,82,37,130,260,99,81,52,225,155,135
+POPULATION,Country of Birth,Rest of Europe,160,60,43,416,179,23,62,78,29,86,260,50,54,33,89,270,111
+POPULATION,Country of Birth,Africa,120,67,43,220,169,22,108,78,26,89,228,77,62,31,98,266,148
+POPULATION,Country of Birth,Middle East & Asia,122,66,42,204,157,16,153,80,26,86,276,184,56,29,112,160,98
+POPULATION,Country of Birth,North America,408,115,85,565,155,81,69,52,46,101,231,43,51,41,62,79,47
+POPULATION,Country of Birth,Central America,257,88,63,605,183,40,60,52,38,105,348,46,51,35,73,112,64
+POPULATION,Country of Birth,South America,170,64,43,575,229,22,58,60,25,80,260,38,38,24,59,270,60
+POPULATION,Country of Birth,Caribbean,47,38,29,246,184,11,91,104,22,82,182,86,62,31,83,334,142
+POPULATION,Country of Birth,Antarctica & Oceania,249,104,76,783,176,58,64,51,39,91,165,38,44,33,54,101,41
+POPULATION,Religion,Christian,104,109,115,80,91,113,97,107,118,98,74,89,102,103,95,87,93
+POPULATION,Religion,Jewish,751,174,70,411,199,10,75,74,48,50,139,27,32,48,39,84,39
+POPULATION,Religion,Buddhist,95,74,56,251,160,36,95,88,80,116,257,69,77,97,103,153,94
+POPULATION,Religion,Muslim,65,44,24,132,114,6,154,74,14,61,184,280,54,24,107,243,100
+POPULATION,Religion,Hindu,162,91,40,155,187,7,242,118,36,89,228,123,46,38,72,118,60
+POPULATION,Religion,Sikh,142,100,53,55,97,9,295,139,42,86,114,168,63,46,88,94,68
+POPULATION,Religion,Other religion,86,92,89,123,107,99,87,90,86,111,125,92,108,110,110,101,116
+HOUSING,House Type,Bungalow,118,100,198,51,51,167,94,74,410,55,61,64,64,64,45,50,50
+HOUSING,House Type,Detached house,431,419,229,46,98,287,203,59,138,61,38,32,25,24,20,19,13
+HOUSING,House Type,Flat or maisonette,36,25,47,274,196,17,22,17,54,30,299,49,29,159,160,142,277
+HOUSING,House Type,Semi-detached house,56,70,139,36,66,119,96,192,172,102,33,72,139,125,39,92,52
+HOUSING,House Type,Terraced house,23,20,25,86,77,38,103,71,31,163,77,199,140,72,169,123,83
+HOUSING,House Tenure,Owner occupied,152,155,150,85,96,139,138,143,147,116,51,116,87,55,81,53,35
+HOUSING,House Tenure,Owned outright,178,160,182,72,71,163,140,140,204,93,40,116,78,61,76,48,31
+HOUSING,House Tenure,Mortgaged,127,151,120,96,121,117,138,148,90,140,57,117,96,49,86,57,38
+HOUSING,House Tenure,Privately rented,58,53,62,228,196,75,89,72,55,150,296,127,63,44,218,84,48
+HOUSING,House Tenure,Social renting,12,10,13,35,34,27,20,22,24,24,61,41,159,248,51,221,291
+HOUSING,House Tenure,Shared/Equity Ownership,84,78,67,184,158,77,81,69,70,108,259,78,97,81,92,124,123
+HOUSING,House Size,Number of Beds : 1,29,23,32,223,133,37,30,17,78,53,262,50,56,295,153,66,260
+HOUSING,House Size,Number of Beds : 2,27,28,72,113,124,78,72,47,141,116,107,115,84,132,164,103,153
+HOUSING,House Size,Number of Beds : 3,43,71,109,60,73,111,112,146,94,104,45,115,137,72,71,121,63
+HOUSING,House Size,Number of Beds : 4,302,348,160,114,115,144,158,109,64,89,90,60,50,22,43,57,31
+HOUSING,House Size,Number of Beds : 5 plus,838,329,149,162,131,131,125,88,43,72,390,63,35,16,45,36,17
+HOUSING,House Value,House Value up to 100k,13,17,16,38,40,35,36,35,36,37,144,180,159,205,252,226,326
+HOUSING,House Value,House Value 100k-150k,35,32,46,40,85,89,77,133,163,112,152,149,142,204,123,78,103
+HOUSING,House Value,House Value 150k-250k,42,66,117,39,83,144,154,143,145,193,91,90,85,65,59,58,62
+HOUSING,House Value,House Value 250k-500k,76,161,146,123,136,119,107,88,69,62,82,65,86,41,59,98,24
+HOUSING,House Value,House Value 500k-750k,111,268,164,174,184,68,99,92,90,52,26,25,24,25,46,57,48
+HOUSING,House Value,House Value 750k-1m,156,317,201,89,94,41,44,41,42,43,49,48,46,48,84,82,89
+HOUSING,House Value,House Value 1m+,1805,124,56,1002,111,43,47,43,44,45,31,30,29,30,36,35,38
+HOUSING,Moving House,Individual likely to move within 12 months,71,80,61,186,186,77,120,34,53,77,408,98,53,45,137,127,148
+FAMILY,Structure,Couple family no children,112,124,113,115,118,132,108,104,89,117,83,90,87,69,90,60,62
+FAMILY,Structure,Couple family with dependent children,146,140,101,70,106,108,115,116,61,104,52,104,98,61,75,85,65
+FAMILY,Structure,Lone parent family with dependent children,30,48,52,59,85,58,75,80,48,103,68,106,146,124,128,223,218
+FAMILY,Structure,All pensioner households,119,105,159,55,51,133,97,101,245,63,37,88,92,186,70,56,70
+FAMILY,Structure,All student households,16,23,15,224,141,5,44,30,10,117,1821,60,29,17,109,87,52
+FAMILY,Structure,One person household (non-pensioner),57,59,64,174,139,67,78,67,54,127,198,101,90,93,176,114,174
+FAMILY,Structure,Other household structure,86,87,75,112,98,71,110,118,60,93,96,117,118,80,90,147,98
+FAMILY,Children in household,Children at home : 0,106,101,111,108,97,109,101,98,122,100,117,98,93,114,100,81,97
+FAMILY,Children in household,Children at home : 1,84,88,76,90,120,79,98,101,62,107,78,108,105,76,116,122,113
+FAMILY,Children in household,Children at home : 2,103,118,89,82,101,91,105,112,54,100,58,99,116,63,88,132,95
+FAMILY,Children in household,Children at home : 3+,68,76,55,63,75,70,84,94,33,81,44,111,138,70,83,205,110
+FAMILY,Household Size,Household size : 1 person,48,51,93,86,85,83,73,65,151,85,112,98,91,193,131,72,160
+FAMILY,Household Size,Household size : 2 persons,107,107,123,102,99,127,108,102,126,110,80,99,94,99,101,75,88
+FAMILY,Household Size,Household size : 3-4 persons,114,119,92,107,109,91,106,116,64,105,93,98,108,63,88,119,85
+FAMILY,Household Size,Household size : 5+ persons,128,104,61,95,100,69,106,106,33,78,175,114,112,50,74,179,76
+ECONOMY,Economic Activity,Employee Full-Time,93,107,96,128,128,91,107,110,82,124,78,100,97,74,106,81,76
+ECONOMY,Economic Activity,Employee Part-Time,87,103,103,58,85,105,105,113,94,101,51,109,113,93,99,103,100
+ECONOMY,Economic Activity,Self-employed,169,132,120,144,109,158,110,94,74,91,61,83,77,57,75,77,58
+ECONOMY,Economic Activity,Retired,111,106,154,40,49,135,98,98,244,62,26,90,92,199,72,58,81
+ECONOMY,Economic Activity,Unemployed and seeking work,29,42,46,81,82,46,72,79,60,90,102,122,132,127,163,200,234
+ECONOMY,Economic Activity,Student,110,80,66,133,99,60,83,77,47,86,526,91,88,71,90,147,111
+ECONOMY,Economic Activity,Looking after home or family,134,81,68,74,85,75,87,79,57,78,61,120,125,105,105,181,169
+ECONOMY,Economic Activity,Other economic activity,58,60,60,82,81,63,79,77,65,83,199,111,117,128,128,170,199
+ECONOMY,NS Socio-Economic Classifications,"Higher managerial, administrative and professional occupations",236,175,124,221,153,88,107,84,71,110,79,58,55,48,57,50,38
+ECONOMY,NS Socio-Economic Classifications,"Lower managerial, administrative and professional occupations",149,139,128,149,129,108,109,96,102,112,69,76,71,68,78,62,55
+ECONOMY,NS Socio-Economic Classifications,Intermediate occupations,98,115,124,74,106,99,113,120,130,111,57,96,89,86,93,69,71
+ECONOMY,NS Socio-Economic Classifications,Small employers and own account workers,122,117,125,89,92,173,110,98,104,87,53,91,85,82,83,76,68
+ECONOMY,NS Socio-Economic Classifications,Lower supervisory and technical occupations,37,71,96,47,81,112,100,116,135,103,58,118,124,134,116,97,109
+ECONOMY,NS Socio-Economic Classifications,Semi-routine occupations,35,59,76,40,70,101,92,114,105,99,55,129,142,134,131,124,139
+ECONOMY,NS Socio-Economic Classifications,Routine occupations,26,45,68,36,58,92,81,99,117,87,54,127,153,173,138,142,174
+ECONOMY,NS Socio-Economic Classifications,Never worked and long-term unemployed,36,33,35,84,74,35,75,67,56,70,100,143,122,148,139,243,242
+ECONOMY,NS Socio-Economic Classifications,Full time students and SEC Unclassified,105,88,68,130,106,59,93,86,50,94,490,96,82,64,92,135,94
+ECONOMY,Social Grade,A,585,311,189,238,145,127,123,96,105,99,121,52,40,28,38,37,26
+ECONOMY,Social Grade,B,206,205,161,199,156,122,139,114,100,127,102,74,58,38,69,54,36
+ECONOMY,Social Grade,C1,87,105,116,117,119,109,115,116,113,123,158,101,86,70,101,82,68
+ECONOMY,Social Grade,C2,34,58,80,46,78,113,97,113,104,97,58,119,129,115,109,101,104
+ECONOMY,Social Grade,D,26,30,47,42,68,71,69,77,75,76,89,122,130,123,132,159,147
+ECONOMY,Social Grade,E,29,31,49,42,44,56,49,55,92,49,56,94,123,212,111,152,211
+ECONOMY,Occupation,Director / Managerial,105,110,115,155,156,108,108,104,108,69,89,89,91,80,63,62,62
+ECONOMY,Occupation,Professional,119,152,130,224,225,48,166,86,66,166,95,45,28,38,53,52,51
+ECONOMY,Occupation,Housewife,146,96,101,81,81,99,69,91,94,83,64,99,120,125,106,133,128
+ECONOMY,Occupation,Office Worker,92,95,101,95,96,106,123,102,106,120,98,98,85,89,142,98,59
+ECONOMY,Occupation,Public Sector,97,103,104,103,103,103,147,103,50,103,103,103,103,86,87,70,87
+ECONOMY,Occupation,Retired,102,107,120,43,38,106,42,101,177,70,78,108,111,175,106,86,122
+ECONOMY,Occupation,Self Employed,114,127,144,61,52,193,75,94,98,74,97,87,74,44,94,92,71
+ECONOMY,Occupation,Shop Worker,66,69,73,103,114,104,117,111,55,94,109,108,152,89,104,102,92
+ECONOMY,Occupation,Skilled / Manual Worker,36,35,39,30,31,103,103,126,102,93,115,178,151,131,142,132,133
+ECONOMY,Occupation,Student,90,94,59,94,95,98,98,94,98,89,221,97,99,87,109,157,108
+ECONOMY,Occupation,Unemployed,80,83,87,55,56,98,98,94,97,86,196,98,102,101,115,113,225
+EDUCATION,Highest Level of Qualifications (Adults),No formal qualifications,49,59,84,58,66,96,90,97,133,79,68,120,128,157,117,136,146
+EDUCATION,Highest Level of Qualifications (Adults),GCSE / O levels / CSE / School Certificate,58,84,88,42,85,100,99,110,93,101,62,115,124,111,116,112,128
+EDUCATION,Highest Level of Qualifications (Adults),ONC / BTEC / apprenticeship,56,103,128,28,75,129,113,131,147,97,42,106,102,100,94,62,83
+EDUCATION,Highest Level of Qualifications (Adults),A-levels/ AS levels or Highers,89,105,102,53,95,107,105,112,93,105,78,104,105,90,104,96,95
+EDUCATION,Highest Level of Qualifications (Adults),Higher education below degree level,87,103,98,86,110,98,106,110,84,120,219,98,91,74,101,87,79
+EDUCATION,Highest Level of Qualifications (Adults),Degree or higher degree,193,147,119,216,146,98,104,84,73,110,124,69,59,52,71,69,51
+EDUCATION,England: Pupils at the end of KS1,Achieving expected level in reading,109,107,107,106,103,104,102,102,105,100,98,96,96,96,92,93,92
+EDUCATION,England: Pupils at the end of KS1,Achieving expected level in writing,114,109,109,108,102,104,102,101,104,99,98,95,95,95,91,93,91
+EDUCATION,England: Pupils at the end of KS1,Achieving expected level in maths,106,105,105,104,103,104,102,102,104,101,99,97,97,98,94,94,93
+EDUCATION,England: Pupils at the end of KS1,Achieving expected level in science,108,107,107,105,103,106,102,102,105,101,98,95,96,97,92,92,91
+EDUCATION,England: Pupils at the end of KS2,Achieving expected level in reading,110,108,108,109,104,103,102,102,105,101,101,96,94,96,93,92,91
+EDUCATION,England: Pupils at the end of KS2,Achieving expected level in writing,115,109,108,112,103,101,102,101,104,99,100,96,94,94,92,94,91
+EDUCATION,England: Pupils at the end of KS2,Achieving expected level in maths,114,109,108,112,104,100,102,100,103,99,102,96,94,94,93,94,92
+EDUCATION,England: Pupils at the end of KS2,"Achieving expected level in reading, writing and maths",121,110,107,116,104,99,101,100,101,99,101,95,94,93,92,94,91
+EDUCATION,England: Pupils at the end of KS4,Achieving 5+ A*-C at GCSE or equivalent,137,119,112,119,108,104,105,102,101,98,99,93,88,87,85,87,81
+EDUCATION,England: Pupils at the end of KS4,Achieving 5+ A*-C (including English and Maths) at GCSE or equivalent,137,120,114,117,109,105,106,103,102,98,100,91,87,86,84,85,80
+EDUCATION,Scotland: Pupils in the S4 cohort,Attained 5 awards at SCQF level 5 and above,184,142,136,159,117,114,118,114,105,102,84,90,71,75,78,55,55
+EDUCATION,Scotland: Pupils in the S5 cohort,Attained 3 awards at SCQF level 6 and above,204,147,141,174,120,115,122,111,107,98,89,86,66,71,77,51,52
+EDUCATION,Scotland: Pupils in the S5 cohort,Attained 5 awards at SCQF level 6 and above,291,169,157,235,123,112,127,109,105,94,93,76,53,60,68,37,38
+HEALTH,Behaviours & Lifestyle,Current cigarette smoker,38,41,52,82,84,79,83,83,74,94,122,115,147,140,159,164,200
+HEALTH,Behaviours & Lifestyle,Takes regular exercise,140,120,114,125,113,101,106,100,90,110,111,90,88,83,94,88,83
+HEALTH,Behaviours & Lifestyle,"I like to pursue a life of challenge, novelty and change",139,100,96,134,127,88,97,95,74,109,154,97,89,83,110,103,92
+HEALTH,Behaviours & Lifestyle,I am perfectly happy with my standard of living,125,124,119,100,100,112,106,105,116,100,93,94,93,92,82,80,80
+HEALTH,Behaviours & Lifestyle,I worry a lot about myself,91,91,91,112,112,84,93,96,84,110,136,103,98,98,113,105,106
+HEALTH,Behaviours & Lifestyle,Eats fruit 3 or less days per week,58,66,76,61,73,86,94,101,92,95,117,116,122,121,138,140,148
+HEALTH,Behaviours & Lifestyle,Eats vegetables 3 or less days per week,29,50,59,42,61,69,91,102,83,91,109,133,135,137,136,163,191
+TRANSPORT,Travel To Work,Work mainly at or from home,230,156,133,123,91,202,89,66,97,68,87,65,69,85,67,50,62
+TRANSPORT,Travel To Work,Train / Tube / Tram,211,96,62,470,202,18,83,88,46,86,164,54,45,45,57,187,66
+TRANSPORT,Travel To Work,"Car, van or motorbike (driver or passenger)",89,112,114,32,88,120,112,111,111,102,54,106,108,101,92,74,87
+TRANSPORT,Travel To Work,"Bus, Minibus, Coach",39,40,49,147,100,26,75,85,70,91,199,107,108,119,145,212,201
+TRANSPORT,Travel To Work,Taxi,79,48,56,89,59,39,76,95,101,86,107,142,133,157,162,157,173
+TRANSPORT,Travel To Work,Bicycle,86,75,83,267,123,50,79,90,107,133,152,76,94,105,107,130,107
+TRANSPORT,Travel To Work,On foot,57,57,74,127,96,60,77,79,95,115,240,118,106,123,161,120,142
+TRANSPORT,Travel To Work,Other mode of travel to work,145,103,102,120,91,139,88,77,122,78,107,102,82,121,102,93,92
+TRANSPORT,Public Transport Accessibility Level,1a - Extremely Poor Accessibility,154.302598,161.6671375,146.5130872,6.569786088,87.18517229,233.6870967,111.9659814,81.77034748,104.0790783,70.9255828,22.72288085,67.68797241,101.8121027,89.32244651,34.91608028,41.64561864,39.22662082
+TRANSPORT,Public Transport Accessibility Level,1b,69.87789009,84.37549677,95.55536899,26.21477454,80.72758717,38.42024746,118.0176541,136.3932498,136.1974191,112.9200467,38.01624584,125.567277,132.711399,133.4104491,93.49665522,101.1739994,113.6404364
+TRANSPORT,Public Transport Accessibility Level,2,53.15661286,56.51607022,70.64956747,95.75892478,93.26673547,7.841436661,90.76277844,119.2969928,89.28131923,130.4726336,110.8728247,140.6101742,99.75829585,106.4119588,180.6798028,129.4421288,164.4249378
+TRANSPORT,Public Transport Accessibility Level,3,67.07810571,38.93484951,38.14478961,325.234003,171.3293752,0.714715903,61.24118882,65.19119948,39.39868535,133.7087397,318.7341304,96.51532397,38.550271,63.76323725,222.4509692,173.5046069,158.6177077
+TRANSPORT,Public Transport Accessibility Level,4,101.9625816,21.98264625,14.4045768,619.4270715,215.4481049,0.068538042,29.04912289,25.30901746,21.5557842,86.81140091,464.5272704,60.26052736,14.93550751,38.92411476,151.6529363,251.0432613,134.4164236
+TRANSPORT,Public Transport Accessibility Level,5,138.7741927,13.92946275,7.492955255,864.1019882,221.8414113,0.001789069,10.71223771,11.24645999,17.30347352,58.40931535,485.0752297,30.99508798,5.910112163,27.84780999,88.49827655,300.5328735,104.5420512
+TRANSPORT,Public Transport Accessibility Level,6a,101.3947827,8.303677792,2.38211789,944.616797,176.9057364,0,5.657007626,3.033634849,10.14157621,24.38874748,755.2011201,14.74565718,2.316718685,25.62378164,53.02630401,309.4034016,102.4417176
+TRANSPORT,Public Transport Accessibility Level,6b - Excellent Access,124.8256856,0.957011363,0.281967683,1159.03465,123.3407769,0,0.79141855,1.155447726,6.363259333,16.05070752,1065.516133,0.393546005,0.714856722,17.44711449,12.50119033,228.5922585,90.27874946
+TRANSPORT,Car Ownership,Number of Cars 0,23,26,24,208,118,48,31,46,47,48,235,64,105,207,225,214,315
+TRANSPORT,Car Ownership,Number of Cars 1,68,49,87,95,100,79,81,95,129,104,88,152,138,120,118,125,78
+TRANSPORT,Car Ownership,Number of Cars 2,170,175,146,48,91,142,159,145,98,125,39,57,56,33,31,30,26
+TRANSPORT,Car Ownership,Number of Cars 3+,126,170,133,92,96,134,102,74,98,100,96,113,96,56,36,35,34
+TRANSPORT,Main Car Class,Mini or Supermini,52,98,101,68,171,88,94,100,103,101,96,144,99,87,105,39,73
+TRANSPORT,Main Car Class,Small Family,39,97,102,75,82,125,136,126,142,127,70,101,103,85,62,77,69
+TRANSPORT,Main Car Class,Large Family,82,140,139,41,50,127,122,117,97,118,34,103,102,73,73,89,24
+TRANSPORT,Main Car Class,Luxury or Executive,923,129,132,247,151,53,76,74,77,59,129,71,72,49,49,57,48
+TRANSPORT,Main Car Class,Sports or 4x4 or MPV,95,181,132,69,77,112,86,90,76,93,88,86,90,56,85,92,56
+MARKETING CHANNELS,Channels Received,Leaflets - Door or Newspaper,102,103,102,96,98,100,102,101,101,102,100,102,99,99,99,95,97
+MARKETING CHANNELS,Channels Received,Mail - Addressed to 'The Householder' or 'The Occupier',118,117,117,96,94,110,103,104,109,110,91,91,96,96,93,81,84
+MARKETING CHANNELS,Channels Received,Mail - Addressed to you by name,128,124,124,97,97,112,106,104,115,109,81,91,93,92,89,76,75
+MARKETING CHANNELS,Channels Received,Newspaper / Magazine Adverts,132,128,128,116,109,117,108,105,113,108,87,86,87,89,77,73,71
+MARKETING CHANNELS,Channels Received,TV/Radio,109,106,107,96,99,108,104,105,105,105,97,92,98,103,94,91,93
+MARKETING CHANNELS,Channels Received,Leaflets/Samples handed out in the street or picked up in shop,112,112,112,105,101,97,102,102,102,119,125,92,95,85,99,87,80
+MARKETING CHANNELS,Channels Received,Posters,119,121,119,123,107,104,106,106,104,120,111,84,86,87,93,80,69
+MARKETING CHANNELS,Channels Received,Email,124,126,120,121,118,108,108,108,101,120,108,83,83,78,87,74,73
+MARKETING CHANNELS,Channels Received,Internet Advertising,124,121,116,128,120,107,105,105,91,117,123,90,86,78,86,79,68
+MARKETING CHANNELS,Channels Received,Messages on mobile phone,101,107,97,103,102,99,101,103,97,112,101,96,96,91,103,100,95
+MARKETING CHANNELS,Channels Received,Telemarketing,117,118,117,87,90,124,104,108,121,107,67,92,94,102,86,80,84
+MARKETING CHANNELS,Channels Received,Cinema Advertising,143,135,131,137,112,100,102,102,91,125,128,81,82,72,88,72,60
+MARKETING CHANNELS,Future Responses,Leaflets - Door or Newspaper,69,95,96,104,102,87,94,94,90,96,108,113,100,103,105,106,105
+MARKETING CHANNELS,Future Responses,Mail - Addressed to 'The Householder' or 'The Occupier',96,102,107,109,100,100,100,100,134,100,101,95,100,89,99,99,88
+MARKETING CHANNELS,Future Responses,Mail - Addressed to you by name,145,134,134,153,105,121,110,105,110,110,80,78,80,80,88,64,65
+MARKETING CHANNELS,Future Responses,Newspaper / Magazine Adverts,126,122,122,127,127,101,108,98,101,101,104,104,77,83,77,82,67
+MARKETING CHANNELS,Future Responses,TV/Radio,94,94,92,110,114,89,102,100,90,106,112,113,91,92,91,103,109
+MARKETING CHANNELS,Future Responses,Leaflets/Samples handed out in the street or picked up in shop,101,101,104,113,113,101,101,101,101,110,117,100,98,84,105,81,91
+MARKETING CHANNELS,Future Responses,Posters,104,111,104,168,145,97,111,98,90,98,154,81,76,54,97,93,96
+MARKETING CHANNELS,Future Responses,Email,164,107,102,137,129,88,94,94,81,99,165,116,78,59,84,111,71
+MARKETING CHANNELS,Future Responses,Email from companies you don't know,87,87,87,106,104,83,109,100,100,127,144,86,95,91,120,110,110
+MARKETING CHANNELS,Future Responses,Email from companies you do know,76,92,92,99,99,94,99,99,99,99,94,82,94,94,126,126,127
+MARKETING CHANNELS,Future Responses,Internet Advertising,142,130,129,169,131,107,107,107,94,114,133,73,73,72,74,71,74
+MARKETING CHANNELS,Future Responses,Messages on mobile phone,105,105,105,130,126,102,105,102,97,102,90,77,90,90,102,102,102
+MARKETING CHANNELS,Future Responses,Telemarketing,142,133,131,167,129,107,107,107,98,114,138,73,75,70,71,67,71
+MARKETING CHANNELS,Future Responses,Cinema Advertising,112,112,122,130,118,96,99,96,99,112,155,91,85,57,93,87,93
+MARKETING CHANNELS,Future Responses,Offers/Promotions on product packaging,98,104,106,144,144,103,104,102,103,119,117,88,88,67,91,72,110
+FINANCE,Household Annual Income,"£0-£20,000",19,30,65,43,55,78,60,73,131,70,115,111,129,219,134,154,218
+FINANCE,Household Annual Income,"£20,000-£40,000",49,69,101,79,95,111,101,109,114,108,118,120,117,76,119,112,82
+FINANCE,Household Annual Income,"£40,000-£60,000",112,127,123,125,131,119,130,124,80,128,94,97,84,33,79,64,28
+FINANCE,Household Annual Income,"£60,000-£80,000",200,189,134,170,152,113,142,121,58,125,66,69,55,14,47,35,10
+FINANCE,Household Annual Income,"£80,000-£100,000",304,247,138,209,160,100,140,108,42,110,44,45,34,6,27,20,4
+FINANCE,Household Annual Income,"£100,000+",511,332,131,267,152,74,119,80,24,78,24,22,16,2,11,9,1
+FINANCE,Household Annual Income,Average Household Income,195,163,117,148,126,103,118,106,75,107,80,81,74,46,71,65,46
+FINANCE,Financial Attitudes,I don't like the idea of being in debt,105,105,105,95,100,104,102,102,103,101,97,99,99,98,96,94,93
+FINANCE,Financial Attitudes,I am very good at managing money,115,119,112,101,102,105,104,103,113,101,89,96,94,92,92,87,82
+FINANCE,Financial Attitudes,It is important to be well insured for everything,114,115,114,93,97,108,109,108,113,103,84,96,96,95,92,80,82
+FINANCE,Financial Attitudes,Financial security after retirement is your own responsibility,124,119,117,104,104,110,109,108,117,100,84,95,89,90,89,79,82
+FINANCE,Financial Attitudes,Uses contactless payments on debit card,109,121,99,202,149,85,114,102,78,119,128,93,79,58,93,110,70
+FINANCE,Financial Situation,Saving,124,123,115,116,110,111,110,108,109,109,101,98,90,85,93,86,79
+FINANCE,Financial Situation,Not saving,68,69,80,79,86,85,87,89,88,88,98,103,113,120,109,118,127
+FINANCE,Financial Situation,Saving a lot,190,168,133,175,128,109,121,110,107,110,118,85,70,56,93,74,61
+FINANCE,Financial Situation,Saving a little,113,115,113,106,106,112,108,107,109,108,97,99,94,91,92,88,83
+FINANCE,Financial Situation,Just managing to make ends meet,58,61,75,70,82,80,85,89,86,86,88,106,117,127,108,123,134
+FINANCE,Financial Situation,Drawing on savings or running into debt,108,108,108,118,110,107,99,96,96,99,145,93,93,85,109,93,96
+FINANCE,Benefits,Job Seeker's Allowance,34,34,34,99,99,49,49,49,49,49,162,118,145,149,181,242,267
+FINANCE,Benefits,Disability Living Allowance,41,36,49,53,53,74,74,68,74,74,91,125,139,204,166,175,235
+FINANCE,Benefits,Income Support,28,21,28,54,54,53,53,51,53,59,148,133,156,175,186,224,319
+FINANCE,Credit Cards,Has credit card,148,147,138,136,124,126,123,116,116,118,84,93,78,64,84,73,57
+FINANCE,Credit Cards,Has 2+ credit cards,177,184,149,182,145,141,128,116,107,121,85,82,65,47,78,59,44
+FINANCE,Credit Cards,Spent £500+ in last month on a credit card,274,240,174,205,150,146,143,117,105,112,66,68,55,33,55,51,35
+FINANCE,Credit Cards,Uses credit card 6+ times per month,255,209,165,192,146,142,133,113,116,109,91,70,56,37,63,67,38
+FINANCE,Credit Cards,Usually makes minimum payment on card,98,101,95,166,148,105,105,105,78,124,115,103,87,66,118,87,78
+FINANCE,Credit Cards,Always pays credit card balance in full,180,167,156,133,124,134,130,119,127,114,75,88,72,62,71,67,49
+FINANCE,Savings and Investments,Has savings account,125,126,125,116,112,123,115,113,115,112,95,96,89,83,91,76,70
+FINANCE,Savings and Investments,Has instant access account,131,131,126,124,117,122,118,113,116,115,101,95,86,76,90,74,67
+FINANCE,Savings and Investments,Has Cash ISA,142,145,141,125,115,131,123,117,128,116,98,93,80,71,84,67,56
+FINANCE,Savings and Investments,Has Stocks and Shares ISA,378,258,213,192,131,139,135,117,120,104,62,66,46,34,54,33,32
+FINANCE,Savings and Investments,Has Unit Trusts,323,205,180,209,133,106,114,89,101,95,108,58,47,37,70,100,66
+FINANCE,Savings and Investments,Has stocks and shares,314,226,178,174,124,155,124,119,121,106,77,71,55,41,65,53,37
+FINANCE,Savings and Investments,Has investment bonds,216,204,195,177,119,124,121,115,128,102,103,81,50,50,64,58,48
+FINANCE,Savings and Investments,Has a National Savings product,178,178,178,98,99,171,133,123,149,111,58,83,76,77,68,41,45
+FINANCE,Savings and Investments,Has Investments,274,210,176,170,125,142,129,118,122,110,81,76,57,41,67,57,43
+FINANCE,Savings and Investments,"Value of investments £25,000+",512,286,217,242,139,140,127,98,108,84,80,58,38,34,52,38,34
+FINANCE,Savings and Investments,Savings value £1 - £500,72,90,90,92,105,113,99,103,92,112,101,101,104,100,113,92,98
+FINANCE,Savings and Investments,"Savings value £500 - £2,500",111,105,105,112,119,111,111,111,99,118,113,99,98,88,96,84,78
+FINANCE,Savings and Investments,"Savings value £2,500 - £10,000",130,130,130,118,114,123,120,119,119,119,110,98,91,73,81,77,58
+FINANCE,Savings and Investments,"Savings value £10,000+",244,208,185,174,124,149,136,127,152,108,85,77,58,51,63,47,38
+FINANCE,Loans,Has loan,84,103,93,111,118,112,110,110,91,116,81,108,95,78,117,88,86
+FINANCE,Loans,Has unsecured loan,68,90,90,91,99,105,103,109,95,112,64,109,103,87,117,99,101
+FINANCE,Loans,Has 2+ loans,100,105,86,171,139,103,103,103,87,119,103,98,87,63,103,99,100
+FINANCE,Loans,"Unsecured debt greater than £15,000",99,147,126,117,110,126,156,126,114,126,81,88,85,71,69,69,63
+FINANCE,Insurance and Pensions,Has Private Health Care,274,175,146,218,183,113,122,96,102,102,136,65,59,47,69,69,61
+FINANCE,Insurance and Pensions,Has Company Health Care,220,210,135,289,216,84,129,124,107,111,69,61,61,36,53,53,41
+FINANCE,Insurance and Pensions,Has Life Assurance,112,118,108,101,101,108,111,119,101,110,68,104,103,94,89,84,76
+FINANCE,Insurance and Pensions,Has life protection policy,103,104,103,94,94,104,104,110,104,98,66,102,106,110,89,95,91
+FINANCE,Insurance and Pensions,Has pension scheme organised through company,103,114,97,129,134,96,111,114,76,134,83,102,95,64,103,92,78
+FINANCE,Insurance and Pensions,Has pension scheme organised personally,162,163,137,166,138,132,129,115,93,117,83,85,74,57,87,63,61
+FINANCE,Insurance and Pensions,Plans to use other investments for retirement,162,151,117,173,143,113,122,112,74,129,122,94,76,51,91,76,58
+FINANCE,Financial Channel: Arrange Current Account,In branch or other face to face,154,109,86,196,142,95,101,94,74,104,244,90,76,61,119,97,81
+FINANCE,Financial Channel: Arrange Current Account,Online,139,149,104,239,170,101,105,101,78,113,194,80,65,52,102,82,63
+FINANCE,Financial Channel: Arrange Current Account,By phone,164,111,91,308,168,86,102,90,73,90,221,83,69,58,113,95,74
+FINANCE,Financial Channel: Arrange Current Account,By post,178,100,90,276,171,65,87,87,79,97,206,87,69,62,114,101,101
+FINANCE,Financial Channel: Arrange Current Account,Used price comparison site,99,108,77,305,215,96,99,99,70,104,203,79,63,57,105,98,67
+FINANCE,Financial Channel: Arrange commoditised financial product,In branch or other face to face,97,101,99,139,114,107,105,105,103,105,125,103,90,81,114,91,83
+FINANCE,Financial Channel: Arrange commoditised financial product,Online,111,132,116,127,128,126,121,116,93,127,96,103,86,63,102,69,63
+FINANCE,Financial Channel: Arrange commoditised financial product,By phone,113,127,125,111,110,134,121,121,121,115,79,97,88,74,93,72,68
+FINANCE,Financial Channel: Arrange commoditised financial product,By post,127,118,118,153,119,118,104,105,104,94,94,94,91,86,101,82,79
+FINANCE,Financial Channel: Arrange commoditised financial product,Used price comparison site,90,121,111,97,119,128,120,120,92,129,83,110,93,69,104,71,63
+FINANCE,Financial Channel: Arrange considered financial product,In branch or other face to face,96,129,112,85,118,118,133,142,88,145,54,124,102,57,95,57,43
+FINANCE,Financial Channel: Arrange considered financial product,Online,164,198,139,162,154,127,146,138,96,130,71,87,71,38,63,50,34
+FINANCE,Financial Channel: Arrange considered financial product,By phone,154,185,130,157,156,132,147,133,87,133,66,91,80,37,65,54,37
+FINANCE,Financial Channel: Arrange considered financial product,By post,154,168,115,145,145,138,131,130,93,134,68,100,90,47,69,56,44
+FINANCE,Financial Channel: Arrange considered financial product,Used price comparison site,113,117,113,274,142,122,130,122,122,122,77,96,71,45,85,85,53
+FINANCE,Financial Channel: Arrange considered financial product,Used IFA,167,163,130,164,134,137,135,123,93,123,77,99,76,49,79,60,50
+FINANCE,Financial Channel: Manage Current Account,In branch,93,93,100,90,94,103,97,98,102,97,99,102,100,106,104,103,104
+FINANCE,Financial Channel: Manage Current Account,Online,114,123,106,135,130,108,113,107,81,121,125,94,88,66,103,88,76
+FINANCE,Financial Channel: Manage Current Account,Online mobile,101,104,84,159,143,86,102,99,63,127,158,96,91,64,118,96,89
+FINANCE,Financial Channel: Manage Current Account,Online at home or work,122,131,113,140,133,113,115,109,85,122,126,92,86,63,99,82,69
+FINANCE,Financial Channel: Manage Current Account,By phone,129,122,111,155,124,115,106,100,91,112,123,93,88,78,100,85,77
+FINANCE,Financial Channel: Manage Current Account,By post,85,83,98,58,72,108,88,97,114,90,68,103,113,133,103,104,108
+FINANCE,Financial Channel: Manage Savings Account,In branch,109,105,121,81,86,117,110,112,135,101,85,102,95,97,94,89,84
+FINANCE,Financial Channel: Manage Savings Account,Online,132,143,116,167,150,121,120,111,89,126,128,88,79,53,94,73,62
+FINANCE,Financial Channel: Manage Savings Account,Online mobile,97,105,84,197,161,90,105,98,67,122,171,92,86,56,119,91,83
+FINANCE,Financial Channel: Manage Savings Account,Online at home or work,141,153,125,167,150,128,123,113,94,126,123,86,77,52,87,68,57
+FINANCE,Financial Channel: Manage Savings Account,By phone,161,141,132,203,134,113,107,103,96,101,144,81,71,66,95,84,66
+FINANCE,Financial Channel: Manage Savings Account,By post,138,124,130,74,80,123,103,112,126,101,65,99,94,104,87,88,78
+FINANCE,Expenditure per person per week,Total Expenditure,124,117,102,119,113,102,104,99,85,103,98,93,92,80,93,92,82
+FINANCE,Expenditure per person per week,Food and non-alcoholic beverages,116,111,104,99,100,106,104,103,97,98,85,98,98,89,92,95,88
+FINANCE,Expenditure per person per week,Alcoholic beverages and tobacco,94,96,94,89,97,98,94,93,91,99,102,100,107,115,106,106,123
+FINANCE,Expenditure per person per week,Clothing and footwear,134,127,106,103,108,111,107,104,84,102,84,95,91,73,87,85,74
+FINANCE,Expenditure per person per week,"Housing, water, electricity, gas and other fuels",85,69,67,223,143,71,78,68,61,103,165,84,97,109,123,150,128
+FINANCE,Expenditure per person per week,"Furnishings, household equipment and routine maintenance",144,132,114,105,102,107,110,105,94,97,78,91,88,75,81,80,71
+FINANCE,Expenditure per person per week,Health,139,130,118,109,110,108,114,107,100,104,71,90,86,70,82,72,62
+FINANCE,Expenditure per person per week,Transport,138,134,114,95,115,113,112,105,90,108,85,92,87,68,86,63,61
+FINANCE,Expenditure per person per week,Communication,104,102,97,119,110,96,101,100,92,105,106,98,96,90,100,102,95
+FINANCE,Expenditure per person per week,Recreation and Culture,132,126,110,92,105,108,111,107,89,103,78,94,94,75,84,82,74
+FINANCE,Expenditure per person per week,Education,177,149,97,152,127,89,110,99,49,103,164,84,74,41,77,84,52
+FINANCE,Expenditure per person per week,Restaurants and hotels,125,120,104,123,116,103,107,104,86,108,99,95,88,71,93,84,73
+FINANCE,Expenditure per person per week,Miscellaneous goods and services,139,127,106,108,111,103,110,106,84,103,78,93,91,70,85,88,72
+FINANCE,Expenditure per person per week,Total Online Expenditure,141,136,118,128,140,111,113,109,91,107,68,77,77,62,67,66,60
+DIGITAL,Internet Access: Frequency,Weekly,113,113,104,118,114,103,107,104,88,109,116,99,93,74,101,98,89
+DIGITAL,Internet Access: Frequency,Monthly,67,54,74,34,56,81,92,95,92,88,43,112,127,114,127,131,139
+DIGITAL,Internet Access: Frequency,Less than once a month,85,56,64,39,42,61,65,72,119,53,37,105,118,167,129,142,173
+DIGITAL,Internet Access: Frequency,Never used the internet,37,41,86,17,34,90,63,83,166,54,24,104,133,233,90,103,150
+DIGITAL,Internet Access: Usage in Last Week,Not at all,42,42,85,18,37,87,67,83,154,58,26,106,131,215,96,108,150
+DIGITAL,Internet Access: Usage in Last Week,Less than 2 hours,47,83,103,34,71,104,105,107,115,98,45,109,118,100,94,115,106
+DIGITAL,Internet Access: Usage in Last Week,3-7 hours,85,89,94,67,97,87,100,103,85,109,58,109,108,89,100,121,107
+DIGITAL,Internet Access: Usage in Last Week,8-19 hours,138,123,108,123,123,106,109,104,83,117,120,98,90,70,100,89,82
+DIGITAL,Internet Access: Usage in Last Week,20 hours or more,146,140,108,208,143,115,114,102,83,108,208,84,68,51,105,77,70
+DIGITAL,Digital Attitudes,I worry that any personal information entered online will not remain secure,105,105,105,96,100,104,101,102,101,100,95,98,98,97,96,96,96
+DIGITAL,Digital Attitudes,I couldn't live without the internet on my mobile,97,92,80,143,134,75,94,99,62,114,133,99,96,86,113,112,108
+DIGITAL,Digital Attitudes,"Computers confuse me, I'll never get used to them",100,89,108,78,75,104,98,100,133,75,69,106,108,128,100,101,100
+DIGITAL,Digital Attitudes,I love to buy new gadgets and appliances,112,98,86,125,120,84,94,94,80,103,135,100,99,86,110,108,108
+DIGITAL,Digital Attitudes,I wait until technology becomes cheaper before considering a purchase,102,103,102,99,102,104,100,104,101,102,101,99,98,93,102,95,95
+DIGITAL,Digital Attitudes,Shopping online makes my life easier,105,112,100,124,124,101,101,101,86,112,111,93,90,81,101,96,87
+DIGITAL,Technology at Home,Portable Media Player,146,148,105,136,125,108,113,108,75,117,151,89,89,56,97,85,71
+DIGITAL,Technology at Home,Videogame console,104,115,88,116,119,95,108,104,65,119,125,98,104,65,108,98,89
+DIGITAL,Technology at Home,"Has a smartwatch, fitness band or payment band",181,147,116,214,158,102,118,102,72,108,130,86,81,49,92,86,65
+DIGITAL,TV on Demand,Watch on a PC,114,100,86,141,135,82,93,93,58,112,180,99,91,78,113,105,100
+DIGITAL,TV on Demand,Watch on a TV set,101,110,94,106,113,88,97,114,86,110,87,97,103,86,97,96,97
+DIGITAL,TV on Demand,Watch on a Mobile phone/Device,99,103,89,131,131,78,103,98,64,116,117,96,100,82,106,101,101
+DIGITAL,Mobile phone,Has Mobile Phone with access to Internet,110,108,94,121,121,95,101,105,73,111,127,98,100,73,104,100,92
+DIGITAL,Smartphone Brand,BlackBerry,151,109,98,166,133,97,97,97,69,97,101,87,87,67,106,114,106
+DIGITAL,Smartphone Brand,iPhone,145,128,98,167,151,82,110,108,62,119,140,92,90,55,91,99,75
+DIGITAL,Smartphone Brand,HTC,100,100,100,127,128,97,100,100,73,118,149,98,98,77,103,93,88
+DIGITAL,Smartphone Brand,LG,91,91,83,135,113,100,100,100,100,100,151,94,95,84,107,105,105
+DIGITAL,Smartphone Brand,Motorola,114,109,102,101,101,81,101,101,101,101,112,104,101,83,101,100,101
+DIGITAL,Smartphone Brand,Nokia,102,102,102,93,94,118,101,101,95,101,106,100,100,100,104,91,99
+DIGITAL,Smartphone Brand,Samsung,91,94,88,99,111,98,98,106,75,109,114,103,107,80,106,104,99
+DIGITAL,Smartphone Brand,Sony Ericsson,87,88,78,91,100,101,90,95,82,95,131,100,100,89,126,108,122
+DIGITAL,Tablet Devices,"Has Tablet (e.g. iPad, Samsung Galaxy Tab, Sony Xperia)",140,137,112,130,124,108,116,111,87,117,108,96,88,63,94,84,74
+DIGITAL,Social Media Activity (at least weekly),Visit the profile/fan page of a product/brand or celebrity,91,95,80,122,122,82,84,72,66,100,216,105,107,85,103,121,106
+DIGITAL,Social Media Activity (at least weekly),"Interact with a brand (e.g. like the content that brand posted, comment on a brand page, tweet a brand)",101,100,89,114,116,80,86,80,59,103,176,107,104,75,110,116,110
+DIGITAL,Social Media Activity (at least weekly),Look for business contacts,124,94,84,136,136,89,89,83,81,96,220,102,101,59,102,112,95
+DIGITAL,Social Media Activity (at least weekly),Look for a job,95,103,67,116,116,84,91,91,88,95,253,109,99,52,108,124,93
+DIGITAL,Social Media Activity (at least weekly),Play games,87,88,87,78,92,83,96,108,76,117,131,111,104,85,113,116,106
+DIGITAL,Social Media Activity (at least weekly),"Share/upload content/links you have found (e.g. photos, videos)",90,90,86,116,112,90,94,94,63,112,168,111,104,74,104,111,99
+DIGITAL,Social Media Activity (at least weekly),"Make comments on your friends’ status, photos etc",87,94,93,110,110,94,99,101,79,106,139,101,103,78,102,110,96
+DIGITAL,Social Media Activity (at least weekly),"Look at content/updates your friends have posted (e.g. photos, videos, status updates)",93,105,96,123,119,101,103,101,81,108,130,95,95,72,102,100,87
+DIGITAL,Social Media Activity (at least weekly),"Update your profile (e.g. pictures, hobbies)",93,93,91,122,108,78,88,88,62,112,159,108,105,73,111,124,100
+DIGITAL,Social Media Activity (at least weekly),Update your status/tell people what you are up to/tell people what’s happening,87,87,87,106,106,86,93,93,58,113,133,107,107,73,112,133,101
+DIGITAL,Social Media Activity (at least weekly),"Access services/other social networks through apps on Facebook (e.g. Spotify, Pinterest, Instagram)",95,97,87,125,117,77,90,90,78,112,183,100,97,80,104,124,90
+DIGITAL,Social Media Activity (at least weekly),Watch video content,95,96,91,134,127,94,97,95,73,117,166,98,98,69,99,101,94
+DIGITAL,Social Media Activity (at least weekly),Direct messaging,103,97,85,141,133,95,108,93,58,101,169,99,99,70,99,105,87
+DIGITAL,Social Media Activity (at least weekly),Take and upload a video/photo,96,99,86,135,130,92,94,91,69,104,160,100,100,66,101,116,90
+DIGITAL,Social Media Activity (at least weekly),Trying to meet new people,129,98,80,108,110,73,87,85,61,97,185,112,107,63,109,131,116
+DIGITAL,Social Media Activity (at least weekly),Browsing to see what my friends are up to,99,103,94,123,117,94,100,99,71,115,145,96,97,69,101,106,89
+DIGITAL,Social Media Brands (used at least weekly),Foursquare,28,28,28,368,216,36,95,90,90,90,626,116,103,40,64,31,67
+DIGITAL,Social Media Brands (used at least weekly),YouTube,89,90,84,160,121,84,92,86,70,111,185,107,95,69,111,108,100
+DIGITAL,Social Media Brands (used at least weekly),LinkedIn,111,138,86,263,217,73,92,85,62,89,234,77,56,39,80,83,69
+DIGITAL,Social Media Brands (used at least weekly),Twitter,86,98,87,154,131,80,99,98,77,128,153,115,92,60,94,94,90
+DIGITAL,Social Media Brands (used at least weekly),Google +,81,86,76,102,97,98,98,98,71,98,167,129,93,98,96,119,101
+DIGITAL,Social Media Brands (used at least weekly),Facebook,86,103,94,124,120,98,100,98,83,109,130,96,95,75,101,104,91
+DIGITAL,Social Media Brands (used at least weekly),Flickr,110,131,71,84,120,38,103,108,60,197,103,103,63,113,103,84,114
+DIGITAL,Social Media Brands (used at least weekly),Pinterest,39,103,89,140,126,96,97,93,74,126,165,97,86,97,97,98,78
+DIGITAL,Social Media Brands (used at least weekly),Instagram,109,102,78,215,132,78,107,103,72,112,210,97,83,61,91,106,60
+DIGITAL,Social Media Brands (used at least weekly),Tumblr,97,103,98,176,92,90,90,74,57,125,343,77,99,54,110,101,82
+DIGITAL,Social Media Brands (used at least weekly),Vine,98,98,86,239,102,65,56,54,30,98,298,100,100,52,122,130,122
+DIGITAL,Social Media Brands (used at least weekly),Snapchat,148,121,84,129,113,95,100,88,71,100,265,98,94,51,95,109,70
+DIGITAL,Social Media Brands (used at least weekly),WhatsApp,95,101,85,188,157,71,111,96,68,112,190,90,83,55,93,113,71
+DIGITAL,Social Media Brands (used at least weekly),Viber,41,94,45,135,141,48,111,88,88,86,246,97,89,48,118,184,79
+DIGITAL,Social Media Brands (used at least weekly),Tinder,297,81,51,257,211,73,73,73,24,73,408,54,102,108,87,87,68
+DIGITAL,Social Media Brands (used at least weekly),Reddit,46,137,83,227,133,75,67,91,91,116,325,85,45,79,92,77,92
+DIGITAL,Social Media Brands (used at least weekly),Shazam,99,136,73,188,104,68,91,91,43,103,299,97,65,79,76,116,97
+DIGITAL,Social Media Brands (used at least weekly),Blogs/online forums,102,112,103,162,121,93,93,80,81,112,182,98,87,75,90,98,85
+DIGITAL,Number of apps on mobile phone (free or paid),None,119,125,119,75,87,103,103,103,92,103,83,108,99,99,73,94,89
+DIGITAL,Number of apps on mobile phone (free or paid),1-10.,111,109,108,118,108,99,112,99,99,92,93,102,103,70,99,96,82
+DIGITAL,Number of apps on mobile phone (free or paid),11-20.,104,112,86,130,124,78,97,100,73,111,111,93,102,68,107,110,96
+DIGITAL,Number of apps on mobile phone (free or paid),21-30,127,106,104,123,117,106,106,106,80,136,172,84,84,67,91,91,78
+DIGITAL,Number of apps on mobile phone (free or paid),31-50,92,97,79,157,163,84,118,107,107,130,147,100,63,49,94,93,94
+DIGITAL,Number of apps on mobile phone (free or paid),51+,91,107,68,186,189,85,100,99,54,111,190,92,74,70,93,79,93
+DIGITAL,Types of internet usage : Laptop or PC,Enter competitions,66,98,104,121,115,98,98,94,91,122,130,95,95,81,105,97,90
+DIGITAL,Types of internet usage : Laptop or PC,Access content via an electronic bar code (QR scanner) (e.g. eBay scanner),83,83,83,117,113,95,97,91,54,130,163,80,86,79,118,122,139
+DIGITAL,Types of internet usage : Laptop or PC,Use GPS services (e.g. Maps),116,116,116,135,128,96,98,85,92,101,144,89,87,68,96,93,94
+DIGITAL,Types of internet usage : Laptop or PC,Use Skype,123,113,113,168,141,95,105,90,72,107,182,86,75,64,86,87,87
+DIGITAL,Types of internet usage : Laptop or PC,Listen to Music,98,98,98,155,127,89,99,89,78,112,158,92,87,76,109,103,88
+DIGITAL,Types of internet usage : Laptop or PC,"Vote on television shows (e.g. X Factor, Strictly Come Dancing)",72,88,109,68,84,97,112,97,84,108,228,97,101,89,97,101,98
+DIGITAL,Types of internet usage : Laptop or PC,Download content/information from an advertising poster,98,101,98,126,120,79,102,90,73,115,176,85,95,77,95,116,101
+DIGITAL,Types of internet usage : Laptop or PC,Send and receive personal emails,108,108,109,122,120,102,105,101,87,111,113,90,90,76,93,93,91
+DIGITAL,Types of internet usage : Laptop or PC,Play games,85,87,98,95,99,94,99,102,91,108,116,101,110,80,111,104,108
+DIGITAL,Types of internet usage : Laptop or PC,Listen to the radio,109,101,101,163,144,78,97,97,85,112,152,90,76,71,106,96,96
+DIGITAL,Types of internet usage : Laptop or PC,Send pictures/videos to others,109,109,109,131,127,101,102,97,82,101,125,94,90,74,93,90,93
+DIGITAL,Types of internet usage : Laptop or PC,Take pictures/video clips,90,95,89,106,106,74,91,87,49,98,182,98,108,108,102,106,126
+DIGITAL,Types of internet usage : Laptop or PC,Receive/Redeem coupons and vouchers,107,110,111,123,123,112,99,94,87,109,127,89,90,71,101,90,84
+DIGITAL,Types of internet usage : Laptop or PC,Source info on products/services via Internet,110,110,110,126,121,106,108,96,90,111,112,90,88,73,97,94,82
+DIGITAL,Types of internet usage : Laptop or PC,Book tickets via the Internet,134,120,114,154,135,99,104,100,75,107,142,85,84,62,92,82,74
+DIGITAL,Types of internet usage : Laptop or PC,Download music via the Internet,97,103,103,146,137,99,99,91,82,127,156,89,88,60,98,95,85
+DIGITAL,Types of internet usage : Laptop or PC,Instant messaging,97,95,97,129,119,92,109,80,74,96,158,96,98,94,102,102,102
+DIGITAL,Types of internet usage : Laptop or PC,Locate places/shops/businesses via the Internet,122,117,118,130,126,99,99,95,87,104,127,90,87,72,91,93,81
+DIGITAL,Types of internet usage : Laptop or PC,Watch TV/films/video clips via the Internet,99,101,99,151,131,96,100,89,75,107,160,94,92,68,104,99,84
+DIGITAL,Types of internet usage : Laptop or PC,Manage personal finances (banking) via the Internet,99,107,108,129,125,102,105,100,95,110,118,88,88,76,99,92,84
+DIGITAL,Types of internet usage : Laptop or PC,Update my location (e.g. places/via Foursquare),98,98,97,177,116,72,82,78,80,80,189,98,94,92,106,103,125
+DIGITAL,Types of internet usage : Laptop or PC,Use augmented reality apps (e.g. blippar),100,102,86,130,113,52,83,72,77,82,231,120,70,77,122,136,122
+DIGITAL,Types of internet usage : Laptop or PC,Read customer ratings/reviews,107,107,109,125,123,102,99,95,88,105,125,96,90,80,94,94,88
+DIGITAL,Types of internet usage : Laptop or PC,Post ratings and reviews,108,108,111,119,114,98,98,96,86,101,125,92,94,82,98,102,85
+DIGITAL,Types of internet usage : Laptop or PC,Take part in discussion groups/online forums,87,99,106,128,116,92,96,89,72,101,139,101,98,85,98,107,93
+DIGITAL,Types of internet usage : Laptop or PC,Check stocks/shares/investments,167,163,135,182,132,90,129,100,81,100,88,73,65,50,71,71,66
+DIGITAL,Types of internet usage : Laptop or PC,Donate to charity,110,122,122,162,146,104,97,84,76,100,155,81,75,59,91,91,78
+DIGITAL,Types of internet usage : Laptop or PC,"Commenting on someone else’s blog, or their content/opinions",70,87,106,143,117,91,97,77,56,117,150,97,97,77,105,117,106
+DIGITAL,Types of internet usage : Laptop or PC,Read someone else’s blog,123,107,100,172,135,93,98,82,66,124,140,87,92,82,93,93,87
+DIGITAL,Types of internet usage : Laptop or PC,Write your own blog/homepage,105,118,99,165,108,88,93,84,50,111,188,95,85,64,102,102,102
+DIGITAL,Types of internet usage : Laptop or PC,Online dating,88,79,88,154,151,58,83,77,86,95,204,96,82,71,128,123,123
+DIGITAL,Types of internet usage : Laptop or PC,Access news via news site (other than online newspapers),109,110,109,133,133,104,105,89,81,102,129,89,89,67,103,95,84
+DIGITAL,Types of internet usage : Laptop or PC,Download a Podcast,129,115,96,153,135,94,88,93,60,117,164,94,87,78,88,96,85
+DIGITAL,Types of internet usage : Laptop or PC,Gambling/Betting,53,71,74,100,99,99,99,99,95,109,125,106,105,102,113,111,130
+DIGITAL,Types of internet usage : Laptop or PC,Online auctions (e.g. ebay),101,103,103,112,113,107,101,98,94,107,110,95,95,85,98,97,92
+DIGITAL,Types of internet usage : Laptop or PC,School/College/University work,155,122,110,154,130,81,111,97,73,107,241,87,69,47,81,106,66
+DIGITAL,Types of internet usage : Laptop or PC,Watch online videos made by other users (e.g. YouTube),98,99,98,137,126,96,96,94,81,105,140,97,95,78,99,98,95
+DIGITAL,Types of internet usage : Laptop or PC,"Social networking (e.g. Facebook, Twitter)",93,99,99,136,122,98,98,95,79,106,133,96,96,80,101,99,93
+DIGITAL,Types of internet usage : Laptop or PC,Read newspapers online,125,111,111,142,132,99,96,89,87,127,128,89,80,58,105,96,86
+DIGITAL,Types of internet usage : Laptop or PC,Read magazines online,127,104,103,198,151,94,94,83,72,131,129,91,75,59,100,87,95
+DIGITAL,Types of internet usage : Laptop or PC,Play games with my children,58,85,87,58,93,89,116,118,48,70,85,124,128,95,93,113,118
+DIGITAL,Types of internet usage : Laptop or PC,Managing a website/page you have published,98,119,91,165,135,95,102,79,64,117,190,101,71,58,104,97,92
+DIGITAL,Types of internet usage : Laptop or PC,"Upload content (video, articles, music, etc) that you have created",99,99,98,125,124,95,93,88,46,115,184,109,89,72,97,104,99
+DIGITAL,Types of internet usage : Laptop or PC,"Stream/Watch live events (e.g. Music, Sport etc.)",99,98,101,173,133,86,99,83,74,123,166,91,91,63,103,98,89
+DIGITAL,Types of internet usage : Laptop or PC,Make an online purchase,105,107,105,122,120,102,105,102,90,110,124,91,91,76,93,93,88
+DIGITAL,Types of internet usage : Mobile Phone,Enter competitions,63,93,93,146,124,67,99,102,57,139,157,98,93,81,100,105,85
+DIGITAL,Types of internet usage : Mobile Phone,Access content via an electronic bar code (QR scanner) (e.g. eBay scanner),100,103,100,152,153,74,98,99,85,109,158,101,81,56,96,96,88
+DIGITAL,Types of internet usage : Mobile Phone,Use GPS services (e.g. Maps),111,112,99,157,137,84,99,98,72,119,142,88,88,64,96,99,82
+DIGITAL,Types of internet usage : Mobile Phone,Use Skype,98,100,91,178,163,74,103,93,64,107,188,96,83,51,91,108,86
+DIGITAL,Types of internet usage : Mobile Phone,Listen to Music,83,105,92,153,145,80,102,95,63,125,156,95,81,60,98,109,87
+DIGITAL,Types of internet usage : Mobile Phone,"Vote on television shows (e.g. X Factor, Strictly Come Dancing)",98,92,88,109,110,80,96,94,59,116,137,97,97,94,109,126,106
+DIGITAL,Types of internet usage : Mobile Phone,Download content/information from an advertising poster,98,118,70,149,146,62,92,86,63,105,204,99,79,65,102,126,101
+DIGITAL,Types of internet usage : Mobile Phone,Send and receive personal emails,117,113,102,155,143,86,105,97,73,119,139,88,88,62,90,97,77
+DIGITAL,Types of internet usage : Mobile Phone,Play games,97,98,92,107,132,83,108,104,65,116,130,104,95,61,110,110,83
+DIGITAL,Types of internet usage : Mobile Phone,Listen to the radio,96,96,93,152,143,85,103,98,64,129,134,100,81,63,96,104,96
+DIGITAL,Types of internet usage : Mobile Phone,Send pictures/videos to others,74,106,100,151,145,83,103,99,74,110,148,93,93,64,93,102,75
+DIGITAL,Types of internet usage : Mobile Phone,Take pictures/video clips,103,109,100,136,135,91,104,99,77,114,130,97,92,63,98,97,78
+DIGITAL,Types of internet usage : Mobile Phone,Receive/Redeem coupons and vouchers,100,103,100,152,154,77,101,99,61,134,157,90,95,59,84,95,80
+DIGITAL,Types of internet usage : Mobile Phone,Source info on products/services via Internet,104,111,97,143,145,81,99,99,68,127,125,101,89,65,94,97,75
+DIGITAL,Types of internet usage : Mobile Phone,Book tickets via the Internet,99,103,99,193,162,66,102,89,79,116,147,86,86,51,97,112,79
+DIGITAL,Types of internet usage : Mobile Phone,Download music via the Internet,136,107,100,142,141,72,108,103,85,108,138,91,91,63,96,96,88
+DIGITAL,Types of internet usage : Mobile Phone,Instant messaging,100,107,94,151,141,84,109,101,73,112,138,94,92,62,96,96,80
+DIGITAL,Types of internet usage : Mobile Phone,Locate places/shops/businesses via the Internet,100,111,97,167,147,83,102,99,67,130,143,89,87,56,94,94,77
+DIGITAL,Types of internet usage : Mobile Phone,Watch TV/films/video clips via the Internet,88,97,85,170,136,77,101,95,63,110,148,97,92,67,101,119,87
+DIGITAL,Types of internet usage : Mobile Phone,Manage personal finances (banking) via the Internet,90,93,83,150,140,87,103,99,82,116,142,95,93,65,99,112,88
+DIGITAL,Types of internet usage : Mobile Phone,Update my location (e.g. places/via Foursquare),92,92,90,155,144,81,114,96,52,121,119,93,87,87,98,116,78
+DIGITAL,Types of internet usage : Mobile Phone,Pay for things with my mobile phone,98,101,91,135,137,84,97,94,59,120,154,97,97,66,94,119,81
+DIGITAL,Types of internet usage : Mobile Phone,Use augmented reality apps (e.g. blippar),75,104,94,149,159,70,81,75,75,75,159,86,113,89,105,104,104
+DIGITAL,Types of internet usage : Mobile Phone,Read customer ratings/reviews,98,99,98,172,161,78,97,97,76,127,133,91,83,62,94,107,74
+DIGITAL,Types of internet usage : Mobile Phone,Post ratings and reviews,75,107,83,141,126,75,98,98,66,139,131,92,92,77,101,112,94
+DIGITAL,Types of internet usage : Mobile Phone,Take part in discussion groups/online forums,98,103,85,124,124,81,125,89,58,113,168,94,105,71,94,105,91
+DIGITAL,Types of internet usage : Mobile Phone,Check stocks/shares/investments,128,124,112,155,148,73,111,92,78,92,135,85,85,50,99,105,76
+DIGITAL,Types of internet usage : Mobile Phone,Donate to charity,146,109,91,142,143,95,127,93,73,121,144,105,79,67,82,93,70
+DIGITAL,Types of internet usage : Mobile Phone,"Commenting on someone else’s blog, or their content/opinions",89,90,83,155,142,71,96,87,65,130,179,98,98,68,101,124,75
+DIGITAL,Types of internet usage : Mobile Phone,Read someone else’s blog,98,114,82,192,150,76,95,83,52,122,184,97,85,66,97,101,79
+DIGITAL,Types of internet usage : Mobile Phone,Write your own blog/homepage,51,116,81,154,129,62,108,83,48,83,174,98,98,78,107,124,91
+DIGITAL,Types of internet usage : Mobile Phone,Online dating,76,112,60,234,208,60,100,85,78,85,227,71,79,66,98,103,78
+DIGITAL,Types of internet usage : Mobile Phone,Access news via news site (other than online newspapers),98,112,95,153,151,87,104,100,76,127,151,100,81,54,88,94,73
+DIGITAL,Types of internet usage : Mobile Phone,Download a Podcast,190,119,90,271,159,75,110,85,43,107,190,74,70,41,94,105,73
+DIGITAL,Types of internet usage : Mobile Phone,Gambling/Betting,71,75,67,143,143,87,100,99,75,148,120,103,99,57,116,107,107
+DIGITAL,Types of internet usage : Mobile Phone,Online auctions (e.g. ebay),82,91,90,123,140,86,99,99,95,121,125,106,98,76,99,105,79
+DIGITAL,Types of internet usage : Mobile Phone,School/College/University work,104,133,79,192,110,80,91,90,62,100,241,101,88,60,87,94,93
+DIGITAL,Types of internet usage : Mobile Phone,Watch online videos made by other users (e.g. YouTube),93,98,84,155,146,83,96,98,70,130,133,98,93,58,104,110,81
+DIGITAL,Types of internet usage : Mobile Phone,"Social networking (e.g. Facebook, Twitter)",97,100,91,142,135,87,106,99,79,116,136,99,94,65,98,106,80
+DIGITAL,Types of internet usage : Mobile Phone,Read newspapers online,102,114,95,205,158,81,101,96,66,125,168,89,68,49,99,92,76
+DIGITAL,Types of internet usage : Mobile Phone,Read magazines online,52,104,76,198,167,82,97,88,53,132,252,92,75,43,96,111,67
+DIGITAL,Types of internet usage : Mobile Phone,Play games with my children,27,89,88,116,124,69,98,105,95,98,102,117,104,87,104,102,112
+DIGITAL,Types of internet usage : Mobile Phone,Managing a website/page you have published,122,102,69,248,162,76,80,60,48,97,199,95,91,47,118,113,113
+DIGITAL,Types of internet usage : Mobile Phone,"Upload content (video, articles, music, etc) that you have created",89,89,83,155,157,82,102,86,51,103,202,103,96,67,92,103,98
+DIGITAL,Types of internet usage : Mobile Phone,"Stream/Watch live events (e.g. Music, Sport etc.)",99,99,97,138,138,69,87,92,45,128,185,116,83,56,114,101,92
+DIGITAL,Types of internet usage : Mobile Phone,Make an online purchase,87,93,93,143,143,78,103,102,83,114,130,100,95,60,96,110,87
+DIGITAL,Types of internet usage : Tablet / iPad,Enter competitions,106,114,105,104,114,94,100,106,63,122,77,97,108,80,99,96,75
+DIGITAL,Types of internet usage : Tablet / iPad,Access content via an electronic bar code (QR scanner) (e.g. eBay scanner),135,86,66,114,107,98,100,115,47,92,102,102,145,54,107,133,86
+DIGITAL,Types of internet usage : Tablet / iPad,Use GPS services (e.g. Maps),129,145,118,130,112,116,98,88,81,97,115,81,93,60,86,95,78
+DIGITAL,Types of internet usage : Tablet / iPad,Use Skype,127,122,111,134,134,91,120,102,84,112,123,89,88,58,88,90,62
+DIGITAL,Types of internet usage : Tablet / iPad,Listen to Music,117,112,112,123,123,99,98,99,74,121,117,89,97,64,93,94,87
+DIGITAL,Types of internet usage : Tablet / iPad,"Vote on television shows (e.g. X Factor, Strictly Come Dancing)",98,114,85,98,98,98,98,96,96,132,99,98,98,83,114,98,96
+DIGITAL,Types of internet usage : Tablet / iPad,Download content/information from an advertising poster,99,107,81,125,133,65,102,93,53,90,192,108,120,76,99,99,78
+DIGITAL,Types of internet usage : Tablet / iPad,Send and receive personal emails,126,131,125,123,123,104,105,108,75,110,86,82,85,64,91,89,72
+DIGITAL,Types of internet usage : Tablet / iPad,Play games,79,111,107,92,109,104,108,121,79,111,89,88,96,67,99,99,88
+DIGITAL,Types of internet usage : Tablet / iPad,Listen to the radio,136,119,119,131,127,99,110,99,54,115,121,88,88,64,87,87,86
+DIGITAL,Types of internet usage : Tablet / iPad,Send pictures/videos to others,108,112,114,110,110,110,102,111,69,102,123,90,98,58,90,101,87
+DIGITAL,Types of internet usage : Tablet / iPad,Take pictures/video clips,147,110,110,107,107,103,106,103,83,116,97,85,107,74,94,97,81
+DIGITAL,Types of internet usage : Tablet / iPad,Receive/Redeem coupons and vouchers,144,102,102,115,123,103,118,98,56,129,120,89,117,56,89,100,69
+DIGITAL,Types of internet usage : Tablet / iPad,Source info on products/services via Internet,122,127,122,119,125,108,109,107,85,115,84,81,81,60,89,95,73
+DIGITAL,Types of internet usage : Tablet / iPad,Book tickets via the Internet,122,126,122,136,139,88,108,100,100,104,106,88,93,59,83,88,62
+DIGITAL,Types of internet usage : Tablet / iPad,Download music via the Internet,108,108,108,96,113,88,110,101,69,123,96,96,110,69,92,99,92
+DIGITAL,Types of internet usage : Tablet / iPad,Instant messaging,114,121,113,101,109,102,95,99,93,114,94,88,97,66,96,103,93
+DIGITAL,Types of internet usage : Tablet / iPad,Locate places/shops/businesses via the Internet,136,126,123,121,126,110,116,103,65,103,104,82,82,65,88,93,74
+DIGITAL,Types of internet usage : Tablet / iPad,Watch TV/films/video clips via the Internet,117,111,115,136,128,102,104,108,56,117,108,86,89,61,92,96,80
+DIGITAL,Types of internet usage : Tablet / iPad,Manage personal finances (banking) via the Internet,124,121,109,118,118,107,109,108,97,108,73,87,99,70,97,88,65
+DIGITAL,Types of internet usage : Tablet / iPad,Update my location (e.g. places/via Foursquare),99,101,96,99,99,74,71,87,99,90,169,62,157,89,96,128,105
+DIGITAL,Types of internet usage : Tablet / iPad,Use augmented reality apps (e.g. blippar),98,91,106,194,112,62,89,89,36,143,98,98,114,84,83,108,106
+DIGITAL,Types of internet usage : Tablet / iPad,Read customer ratings/reviews,96,119,114,138,139,101,104,109,91,103,105,86,88,63,88,88,71
+DIGITAL,Types of internet usage : Tablet / iPad,Post ratings and reviews,105,119,112,118,121,99,99,105,46,104,93,93,98,71,95,95,90
+DIGITAL,Types of internet usage : Tablet / iPad,Take part in discussion groups/online forums,92,116,100,117,117,92,103,99,57,109,127,99,111,73,91,88,91
+DIGITAL,Types of internet usage : Tablet / iPad,Check stocks/shares/investments,194,159,124,105,122,81,151,98,98,72,94,83,85,41,75,91,71
+DIGITAL,Types of internet usage : Tablet / iPad,Donate to charity,128,136,128,162,123,98,117,93,81,102,110,85,82,41,78,100,67
+DIGITAL,Types of internet usage : Tablet / iPad,"Commenting on someone else’s blog, or their content/opinions",80,93,93,137,143,99,101,99,59,102,117,98,98,74,99,114,78
+DIGITAL,Types of internet usage : Tablet / iPad,Read someone else’s blog,113,128,104,146,146,92,100,105,50,138,128,86,92,49,83,83,74
+DIGITAL,Types of internet usage : Tablet / iPad,Write your own blog/homepage,99,87,71,188,143,69,80,80,57,88,161,97,127,81,86,140,93
+DIGITAL,Types of internet usage : Tablet / iPad,Online dating,40,93,86,210,158,79,81,81,40,102,117,116,114,69,91,110,83
+DIGITAL,Types of internet usage : Tablet / iPad,Access news via news site (other than online newspapers),118,129,114,122,129,108,115,108,81,115,111,88,90,62,80,82,59
+DIGITAL,Types of internet usage : Tablet / iPad,Download a Podcast,160,123,113,154,136,77,97,88,58,88,131,91,117,85,66,88,81
+DIGITAL,Types of internet usage : Tablet / iPad,Gambling/Betting,30,90,90,101,107,94,120,91,54,158,126,98,109,82,99,99,99
+DIGITAL,Types of internet usage : Tablet / iPad,Online auctions (e.g. ebay),99,111,118,113,116,102,107,113,94,112,76,88,100,69,88,97,71
+DIGITAL,Types of internet usage : Tablet / iPad,School/College/University work,141,119,96,211,130,97,89,109,97,78,191,96,82,68,80,91,51
+DIGITAL,Types of internet usage : Tablet / iPad,Watch online videos made by other users (e.g. YouTube),108,108,108,135,130,101,102,112,88,122,108,87,91,61,93,90,76
+DIGITAL,Types of internet usage : Tablet / iPad,"Social networking (e.g. Facebook, Twitter)",98,116,112,120,117,101,102,109,74,111,107,88,98,61,93,102,75
+DIGITAL,Types of internet usage : Tablet / iPad,Read newspapers online,112,132,123,155,142,99,104,99,69,101,104,83,90,55,81,81,78
+DIGITAL,Types of internet usage : Tablet / iPad,Read magazines online,147,111,111,187,166,103,103,103,62,155,104,74,74,52,84,92,55
+DIGITAL,Types of internet usage : Tablet / iPad,Play games with my children,25,109,99,70,128,99,99,106,99,97,72,114,145,54,87,88,75
+DIGITAL,Types of internet usage : Tablet / iPad,Managing a website/page you have published,85,98,55,162,164,79,83,109,47,104,121,100,134,50,100,100,100
+DIGITAL,Types of internet usage : Tablet / iPad,"Upload content (video, articles, music, etc) that you have created",141,109,90,69,107,95,100,102,49,122,144,100,121,65,100,96,100
+DIGITAL,Types of internet usage : Tablet / iPad,"Stream/Watch live events (e.g. Music, Sport etc.)",88,106,112,147,142,93,109,100,83,115,123,86,86,57,92,92,87
+DIGITAL,Types of internet usage : Tablet / iPad,Make an online purchase,113,116,113,124,124,101,114,109,95,114,86,88,96,58,92,88,73
+DIGITAL,Regularly research on the internet,Computer/Video games,89,89,87,78,117,80,104,96,75,107,149,104,105,71,115,115,115
+DIGITAL,Regularly research on the internet,Loans,70,90,78,96,109,101,101,91,110,120,106,129,119,55,110,102,96
+DIGITAL,Regularly research on the internet,Savings/Investments,152,150,126,149,140,108,118,105,108,108,107,87,61,46,79,69,55
+DIGITAL,Regularly research on the internet,Credit Cards,93,103,103,159,146,97,108,91,87,117,86,87,93,57,117,88,83
+DIGITAL,Regularly research on the internet,Current Accounts,125,115,115,121,120,99,100,93,99,110,109,104,89,72,89,89,81
+DIGITAL,Regularly research on the internet,Local Government Services,105,113,102,122,112,123,103,95,97,112,86,86,86,81,99,99,93
+DIGITAL,Regularly research on the internet,"Household utilities (e.g. Gas, Electricity)",111,118,110,111,111,115,106,105,106,107,87,92,90,84,99,72,85
+DIGITAL,Regularly research on the internet,Musical equipment,109,109,112,117,101,104,117,97,72,96,212,99,92,57,103,87,74
+DIGITAL,Regularly research on the internet,Furniture,98,98,94,121,118,101,107,102,102,112,90,90,90,87,100,100,106
+DIGITAL,Regularly research on the internet,Beer/Wine/Spirits,113,122,115,128,133,87,98,98,98,105,174,89,91,67,83,83,77
+DIGITAL,Regularly research on the internet,Travel tickets (non airline),159,124,108,188,158,100,118,89,87,106,137,78,73,56,82,82,72
+DIGITAL,Regularly research on the internet,Toys,71,107,101,82,112,98,103,115,72,113,80,103,133,67,90,88,82
+DIGITAL,Regularly research on the internet,Tickets for events/cinema/theatre,116,129,105,154,134,98,107,100,79,118,139,89,89,64,79,79,69
+DIGITAL,Regularly research on the internet,Sports equipment,117,131,122,100,120,99,109,99,81,111,114,92,89,83,79,79,79
+DIGITAL,Regularly research on the internet,Property,116,139,119,141,143,134,114,110,114,114,107,77,69,55,82,67,47
+DIGITAL,Regularly research on the internet,Mobile phones/mobile accessories,79,104,92,111,111,98,101,101,100,116,124,98,96,78,98,99,99
+DIGITAL,Regularly research on the internet,Mortgages,43,121,78,163,166,99,108,101,69,147,87,105,81,54,86,86,72
+DIGITAL,Regularly research on the internet,Home Insurance,122,133,114,73,109,119,122,123,110,119,42,103,94,75,80,69,54
+DIGITAL,Regularly research on the internet,Car Insurance,126,131,125,61,108,120,124,116,113,110,64,103,98,72,76,61,62
+DIGITAL,Regularly research on the internet,"Other Insurance (e.g. Life, Travel)",121,122,121,131,115,105,121,109,93,111,86,89,86,73,92,76,64
+DIGITAL,Regularly research on the internet,Eating out,124,127,106,161,149,88,109,99,76,120,149,87,81,62,84,75,71
+DIGITAL,Regularly research on the internet,Days out,108,113,103,117,121,93,111,112,77,113,112,95,98,78,91,81,77
+DIGITAL,Regularly research on the internet,Gardening equipment/flowers/plants,171,128,129,42,67,162,124,108,121,108,59,91,99,90,64,79,75
+DIGITAL,Regularly research on the internet,Household electrical products,120,106,107,92,107,114,116,100,117,111,83,90,104,87,87,87,87
+DIGITAL,Regularly research on the internet,Videos/DVDs/MP4,101,92,94,81,112,100,105,94,100,119,97,97,101,80,115,106,108
+DIGITAL,Regularly research on the internet,Computer Software/programmes/hardware,100,101,100,110,113,105,107,88,91,121,113,94,88,81,103,103,107
+DIGITAL,Regularly research on the internet,"Music (e.g. CDs, MP3s)",99,99,99,112,121,104,107,100,104,112,128,95,99,72,95,95,85
+DIGITAL,Regularly research on the internet,Vehicles,70,139,117,58,121,114,131,111,113,114,73,84,95,67,75,75,75
+DIGITAL,Regularly research on the internet,Books,118,121,113,122,121,106,101,99,89,110,105,91,95,75,85,86,77
+DIGITAL,Regularly research on the internet,"Consumer electronics (e.g. TVs, Stereos)",75,105,101,110,119,102,102,102,102,120,90,91,88,79,106,103,90
+DIGITAL,Regularly research on the internet,Hotel reservations,126,139,117,145,124,100,121,105,96,105,86,89,84,71,82,70,60
+DIGITAL,Regularly research on the internet,Airline tickets,208,132,104,222,156,95,126,98,64,100,132,81,73,52,74,81,57
+DIGITAL,Regularly research on the internet,Sports and Leisurewear/trainers,109,114,109,109,121,103,96,99,87,121,114,103,87,75,88,89,89
+DIGITAL,Regularly research on the internet,Personal electronic products (e.g. electric razors),99,102,99,100,100,107,110,92,84,122,146,91,99,84,98,98,96
+DIGITAL,Regularly research on the internet,"Domestic appliances (e.g. fridge, washing machine)",112,117,106,95,104,114,104,103,104,104,76,94,105,85,85,91,91
+DIGITAL,Regularly research on the internet,"Personal grooming products (e.g. skin care, fragrances, etc.)",108,114,100,146,137,94,95,94,85,94,152,91,91,67,85,111,82
+DIGITAL,Regularly research on the internet,Holidays,132,132,110,129,126,93,125,111,99,110,106,88,85,67,80,76,68
+DIGITAL,Regularly research on the internet,Clothes/Accessories,107,112,105,122,122,99,99,98,88,104,131,96,96,79,90,92,84
+DIGITAL,Regularly research on the internet,Groceries,95,95,93,121,121,98,98,97,84,107,121,95,97,94,99,107,94
+DIGITAL,Regularly research on the internet,None of these,75,95,91,93,84,96,84,96,92,104,95,107,95,75,133,124,130
+DIGITAL,Purchased on the internet,Computer/Video games,93,94,87,90,120,72,96,95,69,120,134,101,110,72,111,122,103
+DIGITAL,Purchased on the internet,Loans,93,91,91,128,135,94,96,96,62,97,143,107,100,67,104,107,103
+DIGITAL,Purchased on the internet,Savings/Investments,140,131,115,149,149,95,120,105,105,109,121,89,70,59,76,80,59
+DIGITAL,Purchased on the internet,Credit Cards,116,99,99,153,136,97,108,95,78,125,110,93,87,54,106,99,90
+DIGITAL,Purchased on the internet,Current Accounts,126,107,101,139,140,94,99,89,94,92,118,94,91,70,99,105,92
+DIGITAL,Purchased on the internet,Local Government Services,108,109,108,121,124,98,98,98,88,98,117,95,93,72,100,99,90
+DIGITAL,Purchased on the internet,"Household utilities (e.g. Gas, Electricity)",127,114,112,122,120,98,104,100,95,110,94,98,90,74,97,90,77
+DIGITAL,Purchased on the internet,Musical equipment,125,100,87,126,127,96,113,93,63,97,153,95,95,66,103,110,103
+DIGITAL,Purchased on the internet,Furniture,90,90,84,151,139,91,91,91,85,91,110,95,97,74,113,116,113
+DIGITAL,Purchased on the internet,Beer/Wine/Spirits,116,131,107,170,135,101,99,83,82,107,156,86,78,68,86,86,83
+DIGITAL,Purchased on the internet,Travel tickets (non airline),136,122,112,179,149,89,106,98,82,100,144,81,75,56,93,87,76
+DIGITAL,Purchased on the internet,Toys,84,103,101,79,116,95,109,105,71,109,93,102,113,67,99,102,93
+DIGITAL,Purchased on the internet,Tickets for events/cinema/theatre,131,131,106,167,139,86,108,102,66,116,135,86,86,60,87,83,64
+DIGITAL,Purchased on the internet,Sports equipment,133,110,105,111,141,99,99,99,75,105,110,93,88,74,89,106,89
+DIGITAL,Purchased on the internet,Property,151,98,94,126,146,98,98,98,98,94,153,107,77,57,104,102,89
+DIGITAL,Purchased on the internet,Mobile phones/mobile accessories,99,103,92,118,119,80,114,99,73,107,127,100,99,75,99,104,95
+DIGITAL,Purchased on the internet,Mortgages,105,100,89,152,152,86,99,110,69,99,128,97,81,69,99,112,80
+DIGITAL,Purchased on the internet,Home Insurance,118,118,118,88,121,105,113,116,108,111,73,110,89,69,85,77,67
+DIGITAL,Purchased on the internet,Car Insurance,123,127,123,73,112,113,115,114,105,113,75,102,87,67,82,78,71
+DIGITAL,Purchased on the internet,"Other Insurance (e.g. Life, Travel)",125,115,108,131,131,87,112,112,89,114,88,100,88,68,91,79,78
+DIGITAL,Purchased on the internet,Eating out,106,116,98,162,143,87,94,93,76,112,154,86,89,62,84,98,95
+DIGITAL,Purchased on the internet,Days out,102,116,103,131,135,91,108,99,71,107,126,104,96,63,88,90,78
+DIGITAL,Purchased on the internet,Gardening equipment/flowers/plants,168,117,114,96,97,124,103,103,101,92,97,93,98,79,76,98,92
+DIGITAL,Purchased on the internet,Household electrical products,131,104,97,114,121,101,111,99,99,104,108,90,102,78,97,96,91
+DIGITAL,Purchased on the internet,Videos/DVDs/MP4,117,103,97,104,118,93,107,99,82,111,103,93,98,73,106,103,103
+DIGITAL,Purchased on the internet,Computer Software/programmes/hardware,99,104,98,124,122,95,114,99,78,102,131,96,91,68,99,102,96
+DIGITAL,Purchased on the internet,"Music (e.g. CDs, MP3s)",129,110,102,127,128,95,107,99,86,116,119,88,97,63,94,94,89
+DIGITAL,Purchased on the internet,Vehicles,100,99,97,118,123,88,99,99,93,108,134,98,98,69,99,108,99
+DIGITAL,Purchased on the internet,Books,140,121,114,135,125,102,102,100,78,108,113,86,87,67,96,89,81
+DIGITAL,Purchased on the internet,"Consumer electronics (e.g. TVs, Stereos)",121,105,94,107,124,88,99,99,99,104,132,99,99,72,99,99,96
+DIGITAL,Purchased on the internet,Hotel reservations,133,130,120,143,135,96,109,103,92,101,110,84,81,67,89,82,68
+DIGITAL,Purchased on the internet,Airline tickets,157,124,98,209,149,87,112,98,79,101,142,80,78,59,84,89,70
+DIGITAL,Purchased on the internet,Sports and Leisurewear/trainers,107,101,96,127,129,94,98,98,71,109,113,102,97,74,98,99,99
+DIGITAL,Purchased on the internet,Personal electronic products (e.g. electric razors),102,107,98,129,132,97,108,85,75,107,127,92,96,70,96,107,94
+DIGITAL,Purchased on the internet,"Domestic appliances (e.g. fridge, washing machine)",103,102,102,103,105,100,107,97,97,104,107,101,103,71,103,105,94
+DIGITAL,Purchased on the internet,"Personal grooming products ( e.g. skin care, fragrances, etc.)",126,109,95,162,132,89,101,95,74,95,142,93,93,68,90,107,88
+DIGITAL,Purchased on the internet,Holidays,115,125,108,138,134,99,126,110,86,108,106,84,83,65,86,82,66
+DIGITAL,Purchased on the internet,Clothes/Accessories,115,110,107,123,123,98,98,98,90,99,129,95,95,71,94,97,86
+DIGITAL,Purchased on the internet,Groceries,91,99,99,132,132,97,97,95,74,103,138,91,95,86,97,102,92
+DIGITAL,Purchased on the internet,None of these,117,115,104,119,108,104,105,107,93,104,94,95,90,71,100,94,92
+DIGITAL,Sites regularly visited,888.com,152,57,76,91,88,111,101,101,112,65,125,108,113,109,151,96,122
+DIGITAL,Sites regularly visited,Air B’n’B,111,78,74,341,254,76,76,63,50,78,237,67,52,41,117,122,79
+DIGITAL,Sites regularly visited,Amazon.co.uk,109,109,105,112,114,104,105,104,89,112,107,92,94,81,96,94,85
+DIGITAL,Sites regularly visited,AOL UK,127,127,127,46,84,108,99,93,82,99,99,124,96,82,89,90,92
+DIGITAL,Sites regularly visited,Apple,84,120,105,117,139,95,93,90,88,98,156,88,87,57,86,113,98
+DIGITAL,Sites regularly visited,Argos,56,73,84,75,90,98,87,99,106,100,108,111,119,107,109,122,117
+DIGITAL,Sites regularly visited,Asos.com,215,113,90,228,152,61,92,92,92,95,200,92,71,62,88,112,63
+DIGITAL,Sites regularly visited,Audible (Amazon eBooks),75,123,85,115,106,142,100,100,95,100,112,71,93,93,97,97,97
+DIGITAL,Sites regularly visited,Auto Trader,108,129,100,51,117,118,121,96,81,111,115,100,111,63,84,80,84
+DIGITAL,Sites regularly visited,bbc.co.uk,117,126,113,147,139,102,108,97,69,132,104,90,79,65,88,80,68
+DIGITAL,Sites regularly visited,Bet365.com,67,64,67,89,89,97,101,83,121,97,98,98,98,114,197,130,90
+DIGITAL,Sites regularly visited,Bing,90,90,90,68,68,104,104,104,62,157,78,108,117,102,105,100,104
+DIGITAL,Sites regularly visited,Blinkbox,131,93,83,119,119,102,108,102,102,102,111,102,110,41,102,98,123
+DIGITAL,Sites regularly visited,Boots.com,76,113,81,145,136,101,101,105,67,115,97,97,97,84,81,93,91
+DIGITAL,Sites regularly visited,Buzzfeed,87,102,62,292,198,69,76,76,23,120,300,93,77,30,114,94,63
+DIGITAL,Sites regularly visited,Carphone Warehouse,89,79,89,89,92,80,132,115,137,142,98,115,88,98,87,97,95
+DIGITAL,Sites regularly visited,comparethemarket.com,94,107,104,79,105,87,101,116,93,112,65,112,100,103,94,84,91
+DIGITAL,Sites regularly visited,Confused.com,101,117,94,81,100,104,108,114,108,123,59,108,96,71,72,100,112
+DIGITAL,Sites regularly visited,DigitalSpy,88,98,98,84,93,100,98,106,63,98,98,110,98,90,106,106,121
+DIGITAL,Sites regularly visited,Direct.gov.uk,104,107,104,99,99,103,104,91,96,110,92,104,107,84,98,98,95
+DIGITAL,Sites regularly visited,Dropbox,24,114,90,158,159,103,116,89,81,117,182,76,77,46,96,117,62
+DIGITAL,Sites regularly visited,Ebay,71,98,98,90,98,109,101,103,102,107,96,99,96,90,109,108,94
+DIGITAL,Sites regularly visited,EE.co.uk,29,88,88,114,118,94,94,94,60,94,112,109,118,94,99,114,104
+DIGITAL,Sites regularly visited,eHow.com,63,63,52,133,104,99,99,89,99,113,132,88,116,87,128,148,116
+DIGITAL,Sites regularly visited,Expedia.co.uk,125,118,88,191,145,76,129,100,52,100,81,81,81,69,103,104,84
+DIGITAL,Sites regularly visited,Freecycle,115,107,105,55,73,108,101,84,83,86,101,104,142,110,101,99,89
+DIGITAL,Sites regularly visited,Game.co.uk,79,74,79,69,123,61,148,105,80,99,120,107,98,57,121,121,130
+DIGITAL,Sites regularly visited,Gocompare.com,74,119,111,99,102,81,99,111,99,99,65,117,109,67,95,93,84
+DIGITAL,Sites regularly visited,Google.co.uk,97,112,103,121,121,102,106,100,79,120,110,93,88,70,102,96,84
+DIGITAL,Sites regularly visited,Groupon,103,103,111,89,123,89,101,95,98,107,99,100,97,89,97,97,95
+DIGITAL,Sites regularly visited,Gumtree.com,84,84,77,120,120,103,96,88,94,96,133,96,109,94,111,111,111
+DIGITAL,Sites regularly visited,HotUKDeals,99,107,79,132,137,91,80,104,100,113,102,119,113,68,92,99,68
+DIGITAL,Sites regularly visited,Huffington Post,103,110,97,100,102,106,98,97,52,110,121,96,109,77,105,101,101
+DIGITAL,Sites regularly visited,Hungry House,35,72,72,170,133,49,76,105,78,127,136,91,121,87,113,113,119
+DIGITAL,Sites regularly visited,Internet Movie Database (IMDB),97,102,82,137,127,91,92,94,66,129,150,97,93,81,107,99,94
+DIGITAL,Sites regularly visited,iTunes,108,119,102,108,120,91,106,99,98,107,154,96,100,58,90,83,96
+DIGITAL,Sites regularly visited,johnlewis.com,253,189,144,212,172,98,121,84,98,103,94,55,53,37,55,63,39
+DIGITAL,Sites regularly visited,JustEat,22,64,49,115,106,50,88,84,51,107,195,119,119,96,129,135,151
+DIGITAL,Sites regularly visited,Kelkoo.co.uk,72,101,101,132,191,83,83,82,61,26,222,95,73,56,143,114,87
+DIGITAL,Sites regularly visited,Last.fm,62,128,96,145,117,84,77,84,84,84,142,56,84,45,128,148,135
+DIGITAL,Sites regularly visited,Lastminute.com,164,110,110,140,139,65,107,106,97,100,127,83,109,80,77,82,80
+DIGITAL,Sites regularly visited,Live.com,56,92,92,56,88,56,109,99,99,128,216,99,83,90,112,131,102
+DIGITAL,Sites regularly visited,LOVEFiLM,100,100,100,181,155,103,90,101,101,122,87,87,87,85,90,70,95
+DIGITAL,Sites regularly visited,Marks and Spencer,162,153,145,135,139,103,106,103,103,107,77,83,75,65,62,62,62
+DIGITAL,Sites regularly visited,Match.com,77,89,60,118,149,46,90,117,97,88,100,63,108,100,130,130,131
+DIGITAL,Sites regularly visited,meccabingo.com,69,95,83,30,62,43,88,88,34,133,95,104,95,66,152,137,235
+DIGITAL,Sites regularly visited,Microsoft,80,104,111,78,82,97,99,97,76,97,99,99,99,99,107,111,117
+DIGITAL,Sites regularly visited,Moneysavingexpert.com,148,123,118,130,126,118,105,97,86,121,87,96,90,64,86,72,74
+DIGITAL,Sites regularly visited,Moneysupermarket.com,122,122,123,109,126,109,104,114,108,116,78,87,89,67,88,75,65
+DIGITAL,Sites regularly visited,Mumsnet,80,144,104,100,116,101,104,101,97,103,85,92,96,46,99,102,80
+DIGITAL,Sites regularly visited,Myvouchercodes,115,127,113,99,101,91,114,96,80,111,99,99,100,88,96,90,66
+DIGITAL,Sites regularly visited,National Lottery,65,100,104,81,95,111,108,106,98,124,60,94,105,94,99,92,106
+DIGITAL,Sites regularly visited,National Rail,160,103,103,197,176,68,95,110,77,120,140,79,79,46,90,93,76
+DIGITAL,Sites regularly visited,Net doctor,171,113,102,83,92,96,97,97,55,97,90,148,87,87,97,97,97
+DIGITAL,Sites regularly visited,Net-a-Porter,871,133,107,232,166,80,95,80,37,27,223,95,70,44,64,86,64
+DIGITAL,Sites regularly visited,Netmums.com,38,90,58,109,113,114,115,83,43,147,53,128,137,62,83,100,133
+DIGITAL,Sites regularly visited,NHS Direct,89,98,98,109,112,98,98,98,68,121,98,98,109,98,97,97,91
+DIGITAL,Sites regularly visited,Notonthehighstreet.com,116,119,116,169,149,102,102,100,85,140,107,96,96,78,57,57,55
+DIGITAL,Sites regularly visited,Outlook.com (Previously Hotmail),112,100,100,132,125,95,95,95,73,104,123,100,100,79,100,106,85
+DIGITAL,Sites regularly visited,Play.com,34,91,91,32,80,97,97,97,91,90,87,102,134,94,132,118,119
+DIGITAL,Sites regularly visited,Quidco,106,112,106,133,121,102,140,105,61,122,85,93,77,81,95,73,86
+DIGITAL,Sites regularly visited,RAC.co.uk,61,112,99,83,97,128,138,111,111,97,123,139,101,72,56,68,65
+DIGITAL,Sites regularly visited,Reuters.com,161,56,90,211,177,92,36,96,163,108,284,84,57,99,57,116,113
+DIGITAL,Sites regularly visited,rightmove.co.uk,126,141,118,116,132,114,135,109,124,111,84,82,67,53,97,68,54
+DIGITAL,Sites regularly visited,Selfridges,53,145,96,298,135,43,66,66,66,66,369,103,46,42,94,98,98
+DIGITAL,Sites regularly visited,Sky Sports,59,103,100,100,105,74,100,100,61,129,88,124,100,90,100,100,100
+DIGITAL,Sites regularly visited,Sky.co.uk,22,80,80,96,102,81,105,100,81,117,55,115,124,120,100,113,102
+DIGITAL,Sites regularly visited,SoundCloud,98,118,87,156,138,67,85,81,40,97,254,88,69,90,93,119,113
+DIGITAL,Sites regularly visited,Spotify,110,106,102,149,104,96,98,94,84,131,137,103,78,76,103,98,88
+DIGITAL,Sites regularly visited,Stumble Upon,69,80,80,163,108,130,104,110,104,104,96,136,96,68,65,79,127
+DIGITAL,Sites regularly visited,Tesco.net/Tesco.com,56,103,99,98,114,103,103,103,92,118,94,83,106,89,99,98,99
+DIGITAL,Sites regularly visited,tfl.gov.uk (Transport for London),196,113,45,463,248,22,92,102,44,93,177,50,42,24,51,163,66
+DIGITAL,Sites regularly visited,theaa.com,176,217,155,48,88,128,131,110,125,111,44,83,83,68,43,26,43
+DIGITAL,Sites regularly visited,TheLadBible,96,96,94,122,126,97,70,92,66,163,166,101,101,101,90,90,75
+DIGITAL,Sites regularly visited,Ticketmaster,222,107,107,118,123,80,102,95,78,160,97,97,97,84,59,96,95
+DIGITAL,Sites regularly visited,Timeout,51,70,35,656,228,36,48,48,25,62,417,50,48,34,24,181,95
+DIGITAL,Sites regularly visited,Top Gear,88,100,53,121,129,137,163,94,57,111,184,101,101,66,86,75,86
+DIGITAL,Sites regularly visited,Topshop,212,145,82,179,122,44,87,122,23,87,211,107,64,64,55,145,74
+DIGITAL,Sites regularly visited,Tripadvisor,128,143,118,137,137,100,104,106,83,95,83,84,83,73,96,74,61
+DIGITAL,Sites regularly visited,VEVO,52,118,119,152,94,63,112,63,82,82,134,105,101,64,99,128,106
+DIGITAL,Sites regularly visited,Wikipedia,98,110,88,154,135,94,99,95,78,114,159,89,82,68,104,95,96
+DIGITAL,Sites regularly visited,Yahoo.co.uk,65,96,99,99,105,99,83,99,107,110,96,100,96,89,115,108,108
+DIGITAL,Sites regularly visited,Yell.com,123,154,109,46,118,101,102,94,27,123,121,79,90,55,136,74,101
+DIGITAL,Sites regularly visited,YouTube,76,100,99,137,120,88,95,94,82,112,137,97,98,73,111,101,92
+DIGITAL,Sites regularly visited,zoopla.co.uk,99,99,99,142,134,107,160,129,104,127,105,77,79,59,84,77,58
+SHOPPING,Preferred Supermarket,Asda,55,80,80,61,86,81,95,104,93,96,94,115,108,99,116,116,116
+SHOPPING,Preferred Supermarket,Co-op,101,109,116,91,88,135,105,101,110,103,101,104,104,111,89,72,86
+SHOPPING,Preferred Supermarket,M & S,205,163,142,183,136,108,117,111,115,111,110,82,71,69,79,64,59
+SHOPPING,Preferred Supermarket,Morrisons,86,96,102,74,84,113,101,105,112,98,84,111,100,105,106,96,97
+SHOPPING,Preferred Supermarket,Sainsburys,145,128,116,168,134,94,112,108,98,115,137,84,83,68,84,91,73
+SHOPPING,Preferred Supermarket,Tesco,105,106,100,116,113,104,102,101,90,101,116,98,97,87,96,102,91
+SHOPPING,Preferred Supermarket,Waitrose,362,224,151,329,185,111,126,86,88,120,113,51,58,40,50,54,40
+SHOPPING,Food Shopping,Fairtrade,203,127,116,131,116,114,100,99,100,99,89,89,89,84,83,83,83
+SHOPPING,Food Shopping,Premium Ranges,173,151,130,122,114,118,109,100,102,107,68,83,79,73,79,72,77
+SHOPPING,Food Shopping,Budget Ranges,79,77,79,93,96,97,93,97,91,109,110,109,109,109,114,114,114
+SHOPPING,Food Shopping,Healthy Option Ranges,120,109,108,94,101,105,105,105,114,106,87,98,98,98,89,89,88
+SHOPPING,Clothing & Footwear Stores,Premium,192,149,115,158,135,94,108,99,83,99,106,76,76,57,88,88,86
+SHOPPING,Clothing & Footwear Stores,Mass Market,118,121,117,108,113,101,110,107,106,106,104,90,90,79,87,86,79
+SHOPPING,Clothing & Footwear Stores,Value,62,86,89,76,94,91,98,101,95,98,105,107,110,105,108,110,114
+SHOPPING,Furniture & Fittings Stores,Premium,214,209,165,185,139,102,110,97,102,114,85,52,55,46,45,59,51
+SHOPPING,Furniture & Fittings Stores,Mass Market,104,123,119,88,116,105,111,111,107,107,80,93,92,81,80,83,83
+SHOPPING,Furniture & Fittings Stores,Value,73,90,90,81,93,92,100,100,100,100,73,102,109,100,104,117,119
+SHOPPING,Electrical Stores,Premium,223,163,125,151,131,100,112,100,77,100,109,72,72,54,79,85,72
+SHOPPING,Electrical Stores,Mass Market,112,112,115,101,109,105,118,105,105,100,86,96,96,94,83,83,83
+SHOPPING,Electrical Stores,Value,49,74,74,75,85,95,97,97,95,97,105,107,109,113,113,131,128
+SHOPPING,High Street Retailers,Boots The Chemist,79.98618802,128.7200348,117.2734303,100.880147,121.1813146,110.4247752,120.1008959,122.4670639,98.62033916,107.3300791,112.1037883,94.59674961,92.74520068,66.70372534,86.1340079,91.12638234,69.8155645
+SHOPPING,High Street Retailers,Costa,107.6174238,126.4955276,111.3629382,113.7608151,119.2794319,115.7411543,130.2071612,120.8120196,91.59500768,120.4641906,120.1429159,100.1062209,89.65422346,71.45849741,86.38750964,96.53555482,75.77173211
+SHOPPING,High Street Retailers,Debenhams,104.712456,132.8015295,131.6670231,85.22468048,96.14084245,136.3499389,140.9628296,136.423559,104.3145956,102.5828443,65.43597653,103.3125933,94.1599064,60.00466873,77.69098929,91.61133876,63.79077585
+SHOPPING,High Street Retailers,H&M,51.47069455,114.1173082,94.97780731,121.7354932,116.7123108,110.3052684,111.6569583,124.1243814,70.40312598,113.941619,138.1104401,119.5600499,99.53838183,52.52244799,101.7032623,117.3798192,72.93054188
+SHOPPING,High Street Retailers,John Lewis,152.1828434,200.1572748,161.5035551,166.9212912,95.69096342,208.2103747,140.682168,114.1087992,125.7808594,102.2171711,66.05995741,71.41434362,57.79976211,50.52579123,52.15648407,56.13522616,35.90860311
+SHOPPING,High Street Retailers,Marks & Spencer,92.39788739,148.4767999,154.4859705,93.36860081,98.09461343,139.2974372,135.3513217,134.4012175,133.1332456,98.96285616,72.02236002,89.09158684,71.77760076,67.40158017,73.96750742,72.11032299,53.05421713
+SHOPPING,High Street Retailers,McDonalds,55.55694343,84.20911928,76.34649669,114.9286141,89.04938699,90.9449745,94.5523042,94.29858205,67.84828188,98.78107179,135.2650958,120.7999498,122.9546391,93.47191203,126.5546766,196.9628268,129.716787
+SHOPPING,High Street Retailers,New Look,42.2740857,106.7176434,95.36396027,85.77535767,105.9670049,107.1949895,103.9292453,130.977214,81.27966384,113.1804544,121.7600319,111.0526982,120.2652883,64.71169046,90.01341903,124.0491319,79.40271625
+SHOPPING,High Street Retailers,Next,84.85959134,140.9644777,115.7098641,98.7953269,112.2419076,133.5815439,120.5904111,129.5441448,97.88172355,124.1455956,74.08097219,100.7872164,94.97095198,55.65069431,84.32695491,91.88103122,59.57406287
+SHOPPING,High Street Retailers,Poundland,96.45775248,64.13567124,79.79771615,59.30540691,75.62781127,69.82346929,82.07108204,105.2075024,95.58269636,92.72764885,112.122298,112.2085328,131.9782213,120.3496988,112.51827,157.1788205,143.4324939
+SHOPPING,High Street Retailers,Primark,82.72499086,83.23123445,80.53650925,76.91995744,91.21740105,101.0396332,91.28214369,120.7586239,71.13741001,95.2039256,128.6199703,108.1879331,134.4137186,93.21118149,115.1222453,166.3447034,111.6953352
+SHOPPING,High Street Retailers,Sports Direct,89.33361389,107.8785588,80.28171458,121.7268199,105.8213574,89.91840283,85.38844211,103.384096,79.68041298,107.6563632,123.4952419,111.3032578,130.9214101,67.86251524,100.7328951,131.0677235,98.89807584
+SHOPPING,Attitudes,I am prepared to pay more for products that make life easier,125,121,111,129,119,100,102,100,100,103,106,90,87,82,94,90,85
+SHOPPING,Attitudes,It's worth paying extra for quality goods,131,118,112,111,111,107,104,102,106,104,94,96,91,87,90,86,84
+SHOPPING,Attitudes,I buy goods produced in my own country whenever I can,112,110,117,94,94,123,104,101,120,95,83,98,93,99,88,86,88
+SHOPPING,Attitudes,I tend to go for premium rather than standard goods/services,189,136,114,143,127,97,101,98,96,103,86,86,83,83,87,87,77
+SHOPPING,Attitudes,I like to pay cash for everything I buy,83,82,96,83,84,96,96,94,112,87,77,110,111,121,106,108,115
+SHOPPING,Attitudes,I decide what I want before I do the weekly shopping,100,106,105,100,100,103,103,102,103,102,98,98,97,98,95,95,93
+SHOPPING,Attitudes,I prefer not to shop in major high street chains,94,89,94,134,109,98,96,91,92,96,111,100,100,100,112,106,105
+SHOPPING,Attitudes,Shopping online makes my life easier,105,112,100,124,124,101,101,101,86,112,111,93,90,81,101,96,87
+SHOPPING,Attitudes,I look for the lowest possible prices when I go shopping,84,91,90,102,102,95,94,99,94,105,118,102,102,101,111,105,105
+SHOPPING,Attitudes,Shopping for groceries is a bore,101,101,103,96,96,106,103,108,98,103,95,100,102,100,95,95,91
+SHOPPING,Attitudes,I only shop at supermarkets that sell good quality fresh food,118,113,110,103,103,103,102,102,111,101,85,97,92,94,96,91,92
+SHOPPING,Attitudes,I check a number of sources before making a significant purchase,123,120,111,113,113,104,103,103,102,107,104,92,87,84,97,86,84
+CONTACT,Preferred Channel,Email,137,159,160,73,73,214,84,85,89,88,60,50,55,57,70,60,74
+CONTACT,Preferred Channel,Phone or SMS,42,58,99,23,29,150,54,100,153,72,66,130,129,186,110,110,133
+CONTACT,Preferred Channel,Mail,131,119,94,150,146,58,130,102,70,118,123,88,88,53,97,97,79
+CONTACT,Preferred Channel,Visit,83,94,95,66,66,99,83,92,91,91,142,71,91,94,124,140,251
+ENVIRONMENT,Environmental Groups,Member of Environmental Group,138,130,129,155,135,108,112,79,66,100,119,66,72,64,56,56,56
+ENVIRONMENT,Action,Rarely Leave TV or PC on standby for long periods of time at home,102,100,107,88,92,107,102,104,109,104,78,102,100,100,96,96,96
+ENVIRONMENT,Action,Rarely keep the tap running while brushing teeth,111,113,110,107,110,107,104,101,104,108,96,93,93,90,91,90,87
+ENVIRONMENT,Action,Rarely leave the heating on when out for a few hours,82,90,94,104,105,99,99,100,99,101,104,100,100,99,106,106,106
+ENVIRONMENT,Action,Decide not to buy something because it has too much packaging,106,99,96,135,106,120,99,94,89,99,108,99,96,99,97,99,99
+ENVIRONMENT,Action,Take own shopping bag when shopping,112,112,112,100,100,114,105,106,115,103,89,97,97,97,88,79,84
+ENVIRONMENT,Action,"Re-use items like empty bottles, tubs, jars, envelopes or paper",114,112,111,101,100,117,107,104,108,105,95,95,94,95,87,87,83
+ENVIRONMENT,Action,Rarely leave the mobile phone charger in the socket when not in use,109,109,112,80,95,111,105,105,124,97,73,99,99,102,89,88,89
+ENVIRONMENT,Action,Recycle items rather than throwing them away,109,109,109,95,98,109,106,106,106,104,82,98,101,98,90,88,83
+ENVIRONMENT,Action,Make an effort to cut down on the use of gas/electricity at home,100,104,104,100,100,105,103,103,109,101,85,99,100,99,94,94,93
+ENVIRONMENT,Action,Make an effort to cut down on water usage at home,104,108,107,96,100,111,105,102,111,102,82,97,98,97,91,93,92
+ENVIRONMENT,Attitude,There is too much concern with the environment: Agree,94,92,94,97,95,100,104,100,102,100,100,103,100,105,104,104,104
+COMMUNITY SAFETY,Crime Survey for England,Too lenient sentencing,75,102,100,57,80,110,109,114,117,100,51,106,112,114,95,81,101
+COMMUNITY SAFETY,Crime Survey for England,Poverty,110,106,100,138,110,100,102,91,89,108,111,93,100,92,93,96,84
+COMMUNITY SAFETY,Crime Survey for England,Lack of discipline from school,89,96,103,73,90,112,99,102,123,102,61,105,107,118,98,88,102
+COMMUNITY SAFETY,Crime Survey for England,Lack of discipline from parents,107,108,110,90,92,107,102,107,114,102,76,94,101,105,93,82,84
+COMMUNITY SAFETY,Crime Survey for England,Drugs,100,104,100,81,94,99,97,100,103,104,89,102,106,104,97,100,101
+COMMUNITY SAFETY,Crime Survey for England,Alcohol,100,100,96,82,104,101,98,94,95,98,108,103,108,111,106,95,108
+COMMUNITY SAFETY,Crime Survey for England,Unemployment,104,95,91,104,96,97,102,104,93,102,100,110,106,102,96,104,98
+COMMUNITY SAFETY,Crime Survey for England,Breakdown of family,163,124,119,103,103,107,96,94,103,105,93,86,88,84,98,77,78
+COMMUNITY SAFETY,Crime Survey for England,Too few police,75,93,112,68,62,114,95,113,123,104,55,105,108,129,111,83,101
+COMMUNITY SAFETY,Crime Survey for England,Home being broken into,80,67,72,88,74,67,103,121,80,76,106,109,121,118,131,152,139
+COMMUNITY SAFETY,Crime Survey for England,Being mugged and robbed,71,61,64,100,86,59,94,103,94,68,124,112,135,124,150,153,155
+COMMUNITY SAFETY,Crime Survey for England,Having my car stolen,60,55,65,85,82,68,100,103,70,84,50,138,131,178,177,184,166
+COMMUNITY SAFETY,Crime Survey for England,Things being stolen from my car,63,55,58,131,105,61,102,101,64,57,118,132,129,146,189,195,167
+COMMUNITY SAFETY,Crime Survey for England,Being physically attacked by strangers,59,58,60,78,78,62,91,98,82,87,121,116,135,118,166,163,159
+COMMUNITY SAFETY,Crime Survey for England,Being raped,52,61,75,85,80,67,89,107,96,87,112,107,135,125,140,149,151
+COMMUNITY SAFETY,Crime Survey for England,"Being attacked because of skin colour, ethnic origin or religion",99,50,51,109,67,55,105,99,74,73,168,136,122,92,167,166,165
+COMMUNITY SAFETY,Crime Survey for England,The police in this area can be relied on to be there when you need them,105,98,98,112,109,91,101,100,95,103,119,97,95,103,100,100,98
+COMMUNITY SAFETY,Crime Survey for England,The police in this area would treat you with respect if you had contact with them,103,103,103,100,99,102,101,101,103,100,100,99,98,101,97,95,95
+COMMUNITY SAFETY,Crime Survey for England,The police in this area treat everyone fairly regardless of who they are,98,101,104,86,98,104,104,102,101,98,102,104,100,101,97,94,94
+COMMUNITY SAFETY,Crime Survey for England,The police in this area understand the issues that affect this community,103,103,104,98,100,104,103,99,101,99,99,101,98,99,96,95,93
+COMMUNITY SAFETY,Crime Survey for England,The police in this area are dealing with the things that matter to this community,102,101,104,100,102,100,103,98,106,98,102,100,98,102,94,96,95
+COMMUNITY SAFETY,Crime Survey for England,Taking everything into account I have confidence in the police in this area,105,105,105,106,104,99,102,100,102,102,104,97,96,98,94,92,90
+LEISURE TIME,Daily Newspapers,Daily Express,113,117,127,71,71,114,114,114,170,95,59,100,89,96,80,80,80
+LEISURE TIME,Daily Newspapers,Daily Star,49,42,49,63,66,82,66,91,82,65,111,112,146,150,150,150,150
+LEISURE TIME,Daily Newspapers,The Sun,49,49,54,73,81,81,85,100,92,92,59,123,135,138,115,131,152
+LEISURE TIME,Daily Newspapers,The Times,476,180,155,216,169,94,94,81,89,109,113,59,51,38,70,69,60
+LEISURE TIME,Daily Newspapers,Daily Mail,139,139,143,80,97,120,119,118,143,98,68,84,83,82,78,58,62
+LEISURE TIME,Daily Newspapers,Daily Mirror,64,58,64,62,76,89,92,111,100,98,77,122,129,127,112,124,122
+LEISURE TIME,Daily Newspapers,Daily Record,61,61,58,74,72,55,53,55,55,53,146,138,146,213,126,79,218
+LEISURE TIME,Daily Newspapers,Daily Telegraph,251,245,187,172,106,114,100,91,100,106,56,55,49,54,44,43,44
+LEISURE TIME,Daily Newspapers,The Guardian,178,156,108,275,206,74,94,89,65,141,185,70,48,42,76,76,65
+LEISURE TIME,Daily Newspapers,The Independent,122,130,122,260,179,87,87,86,75,96,180,78,65,36,91,91,83
+LEISURE TIME,Magazines Read,Business/Educational/Science,96,96,88,233,248,51,51,51,51,51,96,96,96,96,96,153,96
+LEISURE TIME,Magazines Read,Celebrity,82,82,67,134,182,98,98,98,98,98,161,82,98,98,95,98,98
+LEISURE TIME,Magazines Read,Food and Cooking,165,122,122,107,70,170,92,87,101,89,80,55,94,139,72,72,72
+LEISURE TIME,Magazines Read,Health,81,81,81,114,73,147,99,63,99,65,99,42,141,99,70,170,174
+LEISURE TIME,Magazines Read,Home and Gardening,173,175,173,45,45,153,98,98,113,87,67,61,67,67,49,49,49
+LEISURE TIME,Magazines Read,Computers and Electrical,752,81,85,89,89,119,89,89,89,89,89,89,89,89,89,154,89
+LEISURE TIME,Magazines Read,Men Style and Generic,64,64,63,315,286,66,66,66,66,66,266,66,68,86,86,136,86
+LEISURE TIME,Magazines Read,Motor,176,116,116,104,104,114,87,121,78,104,85,85,85,69,66,96,96
+LEISURE TIME,Magazines Read,Music and Film,72,72,66,183,192,84,84,84,65,84,95,95,95,57,131,149,131
+LEISURE TIME,Magazines Read,Sport,95,139,95,233,97,94,94,94,94,124,94,94,94,94,66,66,66
+LEISURE TIME,Magazines Read,Travel,174,178,174,40,40,117,78,97,161,97,76,76,76,76,53,53,53
+LEISURE TIME,Magazines Read,TV,55,45,55,36,36,123,50,101,183,101,78,103,140,271,124,124,166
+LEISURE TIME,Magazines Read,Women's,101,112,95,90,90,101,101,101,139,101,77,101,101,101,101,101,80
+LEISURE TIME,Magazines Read,Women's Glossy,101,101,101,156,102,51,112,101,101,101,162,101,101,87,101,101,101
+LEISURE TIME,Charities,Animal Welfare,67,67,67,66,66,155,120,110,120,136,89,83,124,136,98,98,101
+LEISURE TIME,Charities,Childrens Welfare,73,101,101,64,64,109,109,109,106,131,65,63,113,100,106,137,106
+LEISURE TIME,Charities,Disability,73,63,73,67,45,173,71,93,100,100,76,56,140,199,131,131,131
+LEISURE TIME,Charities,Disaster Relief,97,97,49,318,203,114,97,55,84,97,269,89,44,70,66,124,44
+LEISURE TIME,Charities,Elderly,99,99,99,91,63,99,90,99,99,99,73,68,101,185,106,106,169
+LEISURE TIME,Charities,Environment/Wildlife,141,131,142,90,88,144,119,113,119,119,68,83,83,83,69,63,68
+LEISURE TIME,Charities,Medical,108,108,113,38,38,121,82,99,130,99,47,105,110,168,98,98,94
+LEISURE TIME,Charities,Overseas Development,157,160,157,120,120,115,113,102,108,108,74,78,71,66,73,68,48
+LEISURE TIME,Charities,Cancer,101,101,101,41,41,113,95,103,134,103,55,94,115,190,101,101,101
+LEISURE TIME,Charities,Homeless,58,55,58,306,162,40,40,40,40,40,308,88,67,84,183,232,183
+LEISURE TIME,Charities,Visual impairment,215,143,145,58,64,115,115,115,147,105,50,91,91,91,73,61,73
+LEISURE TIME,Charities,Mental Health,99,99,99,99,85,137,69,56,65,143,99,38,99,220,117,117,145
+LEISURE TIME,Charities,Regularly donate to charity,271,190,180,135,100,107,99,99,99,99,56,48,56,56,40,40,40
+LEISURE TIME,Books Read,History/Biography,359,162,83,243,112,94,94,77,94,94,75,60,75,75,93,93,75
+LEISURE TIME,Books Read,Health/Alternative Therapy,87,87,74,191,185,81,80,63,50,80,368,92,86,44,84,142,84
+LEISURE TIME,Books Read,Science Fiction/Fantasy,94,94,80,152,147,68,112,103,103,108,103,103,103,87,103,103,81
+LEISURE TIME,Books Read,Mystery/Detective/Thrillers,133,148,133,148,155,26,112,89,92,89,86,85,39,137,86,95,95
+LEISURE TIME,Books Read,Romance,40,40,40,59,59,119,118,166,104,118,74,118,141,118,100,139,100
+LEISURE TIME,Books Read,Best Sellers,80,88,92,102,111,69,89,92,85,89,166,109,114,147,106,106,109
+LEISURE TIME,Interests & Hobbies,Angling,46,46,46,68,68,230,86,100,100,100,100,100,114,100,105,137,106
+LEISURE TIME,Interests & Hobbies,Charity / Voluntary Work,122,122,122,62,48,140,114,114,114,114,81,67,104,100,76,96,50
+LEISURE TIME,Interests & Hobbies,Cinema,66,66,47,335,270,73,73,46,73,77,242,98,98,36,98,98,112
+LEISURE TIME,Interests & Hobbies,Cookery,100,104,100,88,88,108,100,100,100,105,76,86,106,125,100,103,100
+LEISURE TIME,Interests & Hobbies,DIY,55,101,107,30,30,134,123,123,123,123,47,101,109,101,86,127,47
+LEISURE TIME,Interests & Hobbies,Antiques or Fine Art,529,237,74,461,101,112,52,31,79,79,67,51,54,108,41,41,41
+LEISURE TIME,Interests & Hobbies,Eating Out,247,160,147,57,52,144,124,124,124,124,34,65,65,65,57,57,33
+LEISURE TIME,Interests & Hobbies,Environment / Wildlife,109,126,177,36,33,302,147,144,162,131,17,17,17,17,21,21,21
+LEISURE TIME,Interests & Hobbies,Exercise / Sports,135,137,131,94,97,105,105,105,105,113,88,88,88,81,74,74,41
+LEISURE TIME,Interests & Hobbies,Foreign Travel,238,173,173,127,54,108,101,101,101,101,72,67,72,72,53,53,38
+LEISURE TIME,Interests & Hobbies,Gambling,62,62,62,36,28,97,90,97,97,97,103,117,127,155,163,170,163
+LEISURE TIME,Interests & Hobbies,Gardening,110,110,110,38,38,136,96,116,162,116,41,100,100,118,89,89,77
+LEISURE TIME,Interests & Hobbies,Playing Golf,210,331,200,52,52,55,55,55,55,55,50,50,50,50,65,65,65
+LEISURE TIME,Interests & Hobbies,Healthy Eating,99,99,96,100,100,100,100,100,100,108,100,76,103,100,93,133,101
+LEISURE TIME,Interests & Hobbies,Hiking / Walking,137,137,137,46,46,179,127,116,127,127,63,72,72,81,55,55,31
+LEISURE TIME,Interests & Hobbies,Organic Foods,847,92,39,447,243,62,72,43,52,62,85,85,85,70,44,100,92
+LEISURE TIME,Interests & Hobbies,Pets,87,72,92,21,21,214,121,92,86,121,43,93,161,102,63,117,49
+LEISURE TIME,Interests & Hobbies,Reading Books,107,107,107,85,68,104,104,104,130,104,103,76,111,121,97,100,86
+LEISURE TIME,Interests & Hobbies,Records / Tapes / CDs,99,103,99,88,88,106,102,102,120,102,74,99,99,105,99,99,99
+LEISURE TIME,Interests & Hobbies,TV,45,52,47,56,86,83,91,91,91,98,114,95,122,114,182,182,217
+LEISURE TIME,Interests & Hobbies,Vegetarian Products,94,94,55,129,129,77,100,100,100,100,322,126,82,62,100,100,96
+LEISURE TIME,Interests & Hobbies,Football Supporter,97,79,97,103,106,70,94,97,76,94,173,101,101,101,125,125,136
+LEISURE TIME,Visit Pubs for a Drink - Day,Premium,147,135,77,188,175,36,84,84,72,113,94,94,94,70,100,103,112
+LEISURE TIME,Visit Pubs for a Drink - Day,Mass Market,100,100,99,192,165,35,93,93,82,132,115,96,96,66,100,100,100
+LEISURE TIME,Visit Pubs for a Drink - Day,Value,50,92,92,100,100,81,87,94,94,103,130,101,100,93,130,106,119
+LEISURE TIME,Visit Pubs for a Drink - Evening,Premium,148,115,69,383,213,46,101,95,63,124,195,76,52,47,99,99,84
+LEISURE TIME,Visit Pubs for a Drink - Evening,Mass Market,108,96,87,253,216,53,91,91,64,126,184,79,77,51,99,99,99
+LEISURE TIME,Visit Pubs for a Drink - Evening,Value,85,94,94,133,131,61,91,103,65,122,186,99,99,76,119,90,99
+LEISURE TIME,Visit Pubs for a Meal - Day,Premium,174,149,84,156,156,34,95,95,95,95,156,90,81,61,93,103,103
+LEISURE TIME,Visit Pubs for a Meal - Day,Mass Market,103,107,103,137,137,50,103,101,76,145,145,91,86,75,101,101,92
+LEISURE TIME,Visit Pubs for a Meal - Day,Value,64,97,96,93,95,100,99,100,100,100,123,101,100,93,120,95,104
+LEISURE TIME,Visit Pubs for a Meal - Evening,Premium,95,114,79,308,218,73,90,90,75,100,149,78,75,57,95,95,81
+LEISURE TIME,Visit Pubs for a Meal - Evening,Mass Market,100,115,97,204,202,56,92,92,65,127,183,76,70,43,103,99,99
+LEISURE TIME,Visit Pubs for a Meal - Evening,Value,97,100,100,111,111,81,100,113,72,111,165,99,99,70,116,84,100
+LEISURE TIME,Restaurants - Most Often,Premium,184,174,123,224,163,98,116,101,101,118,62,62,62,46,73,58,73
+LEISURE TIME,Restaurants - Most Often,Mass Market,163,136,99,150,150,74,116,105,76,119,141,79,69,61,93,93,85
+LEISURE TIME,Restaurants - Most Often,Value,65,95,94,45,78,82,108,128,111,108,79,105,117,105,98,85,108
+LEISURE TIME,Holiday Destination/Type,UK / Ireland,116,117,116,101,101,119,110,109,113,110,77,90,87,93,72,69,72
+LEISURE TIME,Holiday Destination/Type,Spain / Mediterranean,103,103,103,103,103,80,98,98,78,98,179,101,103,82,103,103,103
+LEISURE TIME,Holiday Destination/Type,Europe (other),402,149,85,214,171,97,97,61,97,97,318,67,45,57,37,73,54
+LEISURE TIME,Holiday Destination/Type,USA / Canada,2280,344,79,84,56,62,62,51,62,62,30,30,30,30,37,37,37
+LEISURE TIME,Holiday Destination/Type,Caribbean,133,150,150,153,128,81,137,114,112,112,65,62,65,55,71,82,67
+LEISURE TIME,Holiday Destination/Type,Australia / New Zealand,3795,116,116,58,58,58,58,58,58,58,58,58,58,58,58,58,58
+LEISURE TIME,Holiday Destination/Type,Africa,2652,126,88,424,108,59,59,59,59,59,44,44,44,44,54,54,54
+LEISURE TIME,Holiday Destination/Type,Asia,171,137,94,220,196,69,122,95,72,97,124,73,57,49,96,113,63
+LEISURE TIME,Holiday Destination/Type,Activity / Outdoor Sports,298,278,138,119,93,96,113,96,84,96,56,48,48,46,23,23,23
+LEISURE TIME,Holiday Destination/Type,Cruise,272,295,272,44,44,70,70,70,70,70,28,28,28,28,49,49,49
+LEISURE TIME,Holiday Destination/Type,Package,196,186,166,49,49,101,101,121,106,101,48,75,75,75,54,54,54
+LEISURE TIME,Holiday Destination/Type,Self-catering,308,181,181,55,55,127,147,124,113,166,44,44,44,33,32,35,35
